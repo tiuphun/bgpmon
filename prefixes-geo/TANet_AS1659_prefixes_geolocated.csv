@@ -1,0 +1,230 @@
+asn,name,prefix,family,center_ip,geo_status,geo_message,country,region,city,lat,lon,isp,as,query
+1659,TANet,120.96.0.0/11,ipv4,120.112.0.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,TANET,AS1659 Taiwan Academic Network (TANet) Information Center,120.112.0.0
+1659,TANet,120.96.144.0/20,ipv4,120.96.152.0,success,,Taiwan,Taiwan,Dazhi,25.084,121.546,T-USC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.96.152.0
+1659,TANet,120.96.160.0/19,ipv4,120.96.176.0,success,,Taiwan,Taiwan,Dazhi,25.084,121.546,T-USC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.96.176.0
+1659,TANet,120.96.192.0/20,ipv4,120.96.200.0,success,,Taiwan,Taiwan,Dazhi,25.084,121.546,T-USC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.96.200.0
+1659,TANet,120.96.208.0/20,ipv4,120.96.216.0,success,,Taiwan,Taipei,Shulin District,25.0191,121.402,T-LHU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.96.216.0
+1659,TANet,120.96.224.0/20,ipv4,120.96.232.0,success,,Taiwan,Taipei,Shulin District,25.0191,121.402,T-LHU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.96.232.0
+1659,TANet,120.107.0.0/18,ipv4,120.107.32.0,success,,Taiwan,Taiwan,Taichung,24.1737,120.735,T-CTUST.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.107.32.0
+1659,TANet,120.108.56.0/21,ipv4,120.108.60.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,T-ASIA.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.108.60.0
+1659,TANet,120.108.64.0/18,ipv4,120.108.96.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,T-ASIA.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.108.96.0
+1659,TANet,120.109.0.0/18,ipv4,120.109.32.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,TANET,AS1659 Taiwan Academic Network (TANet) Information Center,120.109.32.0
+1659,TANet,120.109.64.0/20,ipv4,120.109.72.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,TANET,AS1659 Taiwan Academic Network (TANet) Information Center,120.109.72.0
+1659,TANet,120.110.64.0/19,ipv4,120.110.80.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,TANET,AS1659 Taiwan Academic Network (TANet) Information Center,120.110.80.0
+1659,TANet,120.110.96.0/20,ipv4,120.110.104.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,TANET,AS1659 Taiwan Academic Network (TANet) Information Center,120.110.104.0
+1659,TANet,120.110.112.0/22,ipv4,120.110.114.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,TANET,AS1659 Taiwan Academic Network (TANet) Information Center,120.110.114.0
+1659,TANet,120.110.116.0/23,ipv4,120.110.117.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,TANET,AS1659 Taiwan Academic Network (TANet) Information Center,120.110.117.0
+1659,TANet,120.113.64.0/18,ipv4,120.113.96.0,success,,Taiwan,Taiwan,Douliu,23.7026,120.429,T-NFU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.113.96.0
+1659,TANet,120.118.0.0/18,ipv4,120.118.32.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,TANET,AS1659 Taiwan Academic Network (TANet) Information Center,120.118.32.0
+1659,TANet,120.118.64.0/19,ipv4,120.118.80.0,success,,Taiwan,Taiwan,Dazhi,25.084,121.546,T-USC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.118.80.0
+1659,TANet,120.118.96.0/20,ipv4,120.118.104.0,success,,Taiwan,Taiwan,Dazhi,25.084,121.546,T-USC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.118.104.0
+1659,TANet,120.118.118.0/23,ipv4,120.118.119.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,TANET,AS1659 Taiwan Academic Network (TANet) Information Center,120.118.119.0
+1659,TANet,120.119.176.0/20,ipv4,120.119.184.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,TANET,AS1659 Taiwan Academic Network (TANet) Information Center,120.119.184.0
+1659,TANet,120.124.0.0/18,ipv4,120.124.32.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-VNU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.124.32.0
+1659,TANet,120.124.64.0/19,ipv4,120.124.80.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-VNU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.124.80.0
+1659,TANet,120.124.96.0/19,ipv4,120.124.112.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-CYU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.124.112.0
+1659,TANet,120.124.128.0/18,ipv4,120.124.160.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-CYU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.124.160.0
+1659,TANet,120.124.192.0/21,ipv4,120.124.196.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-CYU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.124.196.0
+1659,TANet,120.124.200.0/23,ipv4,120.124.201.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,TANET,AS1659 Taiwan Academic Network (TANet) Information Center,120.124.201.0
+1659,TANet,120.124.204.0/22,ipv4,120.124.206.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-KNU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.124.206.0
+1659,TANet,120.124.208.0/20,ipv4,120.124.216.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-KNU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.124.216.0
+1659,TANet,120.124.224.0/19,ipv4,120.124.240.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-KNU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.124.240.0
+1659,TANet,120.125.0.0/18,ipv4,120.125.32.0,success,,Taiwan,Taoyuan,Zhongli District,24.9604,121.2392,T-MCU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.125.32.0
+1659,TANet,120.125.64.0/20,ipv4,120.125.72.0,success,,Taiwan,Taoyuan,Zhongli District,24.9604,121.2392,T-MCU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.125.72.0
+1659,TANet,120.125.80.0/21,ipv4,120.125.84.0,success,,Taiwan,Taoyuan,Zhongli District,24.9604,121.2392,T-MCU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.125.84.0
+1659,TANet,120.125.88.0/23,ipv4,120.125.89.0,success,,Taiwan,Taoyuan,Zhongli District,24.9604,121.2392,T-MCU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.125.89.0
+1659,TANet,120.125.128.0/18,ipv4,120.125.160.0,success,,Taiwan,Taoyuan,Zhongli District,24.9604,121.2392,T-NANYA.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,120.125.160.0
+1659,TANet,134.208.0.0/16,ipv4,134.208.128.0,success,,Taiwan,Hualien County,Shoufeng,23.8341,121.521,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,134.208.128.0
+1659,TANet,140.92.0.0/16,ipv4,140.92.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,III,AS1659 Taiwan Academic Network (TANet) Information Center,140.92.128.0
+1659,TANet,140.92.0.0/17,ipv4,140.92.64.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,III,AS1659 Taiwan Academic Network (TANet) Information Center,140.92.64.0
+1659,TANet,140.92.128.0/17,ipv4,140.92.192.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,III,AS1659 Taiwan Academic Network (TANet) Information Center,140.92.192.0
+1659,TANet,140.110.0.0/15,ipv4,140.111.0.0,success,,Taiwan,Taiwan,Long’anpo,25.0253,121.541,TANet,AS1659 Taiwan Academic Network (TANet) Information Center,140.111.0.0
+1659,TANet,140.112.0.0/12,ipv4,140.120.0.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,T-NCHU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.120.0.0
+1659,TANet,140.125.0.0/16,ipv4,140.125.128.0,success,,Taiwan,Taiwan,Douliu,23.696,120.534,T-YUNTECH.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.125.128.0
+1659,TANet,140.127.36.0/24,ipv4,140.127.36.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.36.128
+1659,TANet,140.127.37.0/24,ipv4,140.127.37.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.37.128
+1659,TANet,140.127.38.0/24,ipv4,140.127.38.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.38.128
+1659,TANet,140.127.39.0/24,ipv4,140.127.39.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.39.128
+1659,TANet,140.127.40.0/24,ipv4,140.127.40.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.40.128
+1659,TANet,140.127.41.0/24,ipv4,140.127.41.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.41.128
+1659,TANet,140.127.42.0/24,ipv4,140.127.42.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.42.128
+1659,TANet,140.127.43.0/24,ipv4,140.127.43.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.43.128
+1659,TANet,140.127.44.0/24,ipv4,140.127.44.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.44.128
+1659,TANet,140.127.45.0/24,ipv4,140.127.45.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.45.128
+1659,TANet,140.127.46.0/24,ipv4,140.127.46.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.46.128
+1659,TANet,140.127.47.0/24,ipv4,140.127.47.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.47.128
+1659,TANet,140.127.48.0/24,ipv4,140.127.48.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.48.128
+1659,TANet,140.127.50.0/24,ipv4,140.127.50.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.50.128
+1659,TANet,140.127.51.0/24,ipv4,140.127.51.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.51.128
+1659,TANet,140.127.52.0/24,ipv4,140.127.52.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.52.128
+1659,TANet,140.127.53.0/24,ipv4,140.127.53.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.53.128
+1659,TANet,140.127.56.0/24,ipv4,140.127.56.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.56.128
+1659,TANet,140.127.57.0/24,ipv4,140.127.57.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.57.128
+1659,TANet,140.127.58.0/24,ipv4,140.127.58.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.58.128
+1659,TANet,140.127.59.0/24,ipv4,140.127.59.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.59.128
+1659,TANet,140.127.60.0/24,ipv4,140.127.60.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.60.128
+1659,TANet,140.127.61.0/24,ipv4,140.127.61.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.61.128
+1659,TANet,140.127.63.0/24,ipv4,140.127.63.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.63.128
+1659,TANet,140.127.64.0/24,ipv4,140.127.64.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.64.128
+1659,TANet,140.127.65.0/24,ipv4,140.127.65.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.65.128
+1659,TANet,140.127.67.0/24,ipv4,140.127.67.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.67.128
+1659,TANet,140.127.68.0/24,ipv4,140.127.68.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.68.128
+1659,TANet,140.127.69.0/24,ipv4,140.127.69.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.69.128
+1659,TANet,140.127.70.0/24,ipv4,140.127.70.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.70.128
+1659,TANet,140.127.71.0/24,ipv4,140.127.71.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.71.128
+1659,TANet,140.127.72.0/24,ipv4,140.127.72.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.72.128
+1659,TANet,140.127.73.0/24,ipv4,140.127.73.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.73.128
+1659,TANet,140.127.74.0/24,ipv4,140.127.74.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.74.128
+1659,TANet,140.127.75.0/24,ipv4,140.127.75.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.75.128
+1659,TANet,140.127.76.0/24,ipv4,140.127.76.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.76.128
+1659,TANet,140.127.77.0/24,ipv4,140.127.77.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.77.128
+1659,TANet,140.127.78.0/24,ipv4,140.127.78.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.78.128
+1659,TANet,140.127.79.0/24,ipv4,140.127.79.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.79.128
+1659,TANet,140.127.80.0/24,ipv4,140.127.80.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.80.128
+1659,TANet,140.127.82.0/23,ipv4,140.127.83.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.83.0
+1659,TANet,140.127.84.0/23,ipv4,140.127.85.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.85.0
+1659,TANet,140.127.176.0/20,ipv4,140.127.184.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.184.0
+1659,TANet,140.127.192.0/22,ipv4,140.127.194.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.194.0
+1659,TANet,140.127.196.0/24,ipv4,140.127.196.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.127.196.128
+1659,TANet,140.128.0.0/13,ipv4,140.132.0.0,success,,Taiwan,Taiwan,Daxi,24.8786,121.266,T-CCIT.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.132.0.0
+1659,TANet,140.128.1.0/24,ipv4,140.128.1.128,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,T-TCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.128.1.128
+1659,TANet,140.128.2.0/23,ipv4,140.128.3.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,T-TCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.128.3.0
+1659,TANet,140.128.4.0/22,ipv4,140.128.6.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,T-TCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.128.6.0
+1659,TANet,140.128.8.0/21,ipv4,140.128.12.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,T-TCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.128.12.0
+1659,TANet,140.128.16.0/20,ipv4,140.128.24.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,T-TCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.128.24.0
+1659,TANet,140.128.32.0/20,ipv4,140.128.40.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,T-TCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.128.40.0
+1659,TANet,140.128.48.0/23,ipv4,140.128.49.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,T-TCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.128.49.0
+1659,TANet,140.128.50.0/24,ipv4,140.128.50.128,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,T-TCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.128.50.128
+1659,TANet,140.128.96.0/19,ipv4,140.128.112.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,T-TCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.128.112.0
+1659,TANet,140.128.128.0/21,ipv4,140.128.132.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,T-TCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.128.132.0
+1659,TANet,140.128.191.0/24,ipv4,140.128.191.128,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,T-TCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.128.191.128
+1659,TANet,140.128.192.0/21,ipv4,140.128.196.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,T-TCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.128.196.0
+1659,TANet,140.130.1.0/24,ipv4,140.130.1.128,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,T-YCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.130.1.128
+1659,TANet,140.130.2.0/23,ipv4,140.130.3.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,T-YCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.130.3.0
+1659,TANet,140.130.4.0/22,ipv4,140.130.6.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,T-YCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.130.6.0
+1659,TANet,140.130.8.0/21,ipv4,140.130.12.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,T-YCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.130.12.0
+1659,TANet,140.130.16.0/20,ipv4,140.130.24.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,T-YCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.130.24.0
+1659,TANet,140.130.32.0/21,ipv4,140.130.36.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,T-YCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.130.36.0
+1659,TANet,140.130.40.0/24,ipv4,140.130.40.128,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,T-YCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.130.40.128
+1659,TANet,140.130.101.0/24,ipv4,140.130.101.128,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,T-YCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.130.101.128
+1659,TANet,140.130.102.0/23,ipv4,140.130.103.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,T-YCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.130.103.0
+1659,TANet,140.130.104.0/21,ipv4,140.130.108.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,T-YCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.130.108.0
+1659,TANet,140.130.112.0/20,ipv4,140.130.120.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,T-YCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.130.120.0
+1659,TANet,140.130.128.0/23,ipv4,140.130.129.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,T-YCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.130.129.0
+1659,TANet,140.130.130.0/24,ipv4,140.130.130.128,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,T-YCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.130.130.128
+1659,TANet,140.130.171.0/24,ipv4,140.130.171.128,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,T-YCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.130.171.128
+1659,TANet,140.130.175.0/24,ipv4,140.130.175.128,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,T-YCRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.130.175.128
+1659,TANet,140.131.1.0/24,ipv4,140.131.1.128,success,,Taiwan,Taiwan,Taipei,25.0173,121.54,T-TP1RC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.131.1.128
+1659,TANet,140.131.2.0/23,ipv4,140.131.3.0,success,,Taiwan,Taiwan,Taipei,25.0173,121.54,T-TP1RC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.131.3.0
+1659,TANet,140.131.4.0/22,ipv4,140.131.6.0,success,,Taiwan,Taiwan,Taipei,25.0173,121.54,T-TP1RC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.131.6.0
+1659,TANet,140.131.8.0/21,ipv4,140.131.12.0,success,,Taiwan,Taiwan,Taipei,25.0173,121.54,T-TP1RC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.131.12.0
+1659,TANet,140.131.16.0/22,ipv4,140.131.18.0,success,,Taiwan,Taiwan,Taipei,25.0173,121.54,T-TP1RC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.131.18.0
+1659,TANet,140.131.20.0/24,ipv4,140.131.20.128,success,,Taiwan,Taiwan,Taipei,25.0173,121.54,T-TP1RC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.131.20.128
+1659,TANet,140.131.150.0/23,ipv4,140.131.151.0,success,,Taiwan,Taiwan,Taipei,25.0173,121.54,T-TP1RC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.131.151.0
+1659,TANet,140.131.152.0/21,ipv4,140.131.156.0,success,,Taiwan,Taiwan,Taipei,25.0173,121.54,T-TP1RC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.131.156.0
+1659,TANet,140.131.160.0/19,ipv4,140.131.176.0,success,,Taiwan,Taiwan,Taipei,25.0173,121.54,T-TP1RC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.131.176.0
+1659,TANet,140.133.32.0/19,ipv4,140.133.48.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-MOE.GOV.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.133.48.0
+1659,TANet,140.134.0.0/16,ipv4,140.134.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,T-FCU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.134.128.0
+1659,TANet,140.136.0.0/15,ipv4,140.137.0.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,T-PCCU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,140.137.0.0
+1659,TANet,140.138.0.0/16,ipv4,140.138.128.0,success,,Taiwan,New Taipei City,Banqiao,25.0104,121.4684,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,140.138.128.0
+1659,TANet,163.13.0.0/16,ipv4,163.13.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,163.13.128.0
+1659,TANet,163.14.0.0/15,ipv4,163.15.0.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6283,120.265,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,163.15.0.0
+1659,TANet,163.15.15.0/24,ipv4,163.15.15.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6283,120.265,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,163.15.15.128
+1659,TANet,163.15.151.0/24,ipv4,163.15.151.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6283,120.265,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,163.15.151.128
+1659,TANet,163.15.152.0/21,ipv4,163.15.156.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6283,120.265,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,163.15.156.0
+1659,TANet,163.15.160.0/20,ipv4,163.15.168.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6283,120.265,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,163.15.168.0
+1659,TANet,163.15.176.0/22,ipv4,163.15.178.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6283,120.265,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,163.15.178.0
+1659,TANet,163.15.180.0/24,ipv4,163.15.180.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6283,120.265,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,163.15.180.128
+1659,TANet,163.15.185.0/24,ipv4,163.15.185.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6283,120.265,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,163.15.185.128
+1659,TANet,163.15.188.0/22,ipv4,163.15.190.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6283,120.265,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,163.15.190.0
+1659,TANet,163.15.192.0/24,ipv4,163.15.192.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6283,120.265,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,163.15.192.128
+1659,TANet,163.16.0.0/13,ipv4,163.20.0.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,163.20.0.0
+1659,TANet,163.24.0.0/14,ipv4,163.26.0.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,T-TNRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,163.26.0.0
+1659,TANet,163.24.242.0/23,ipv4,163.24.243.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,163.24.243.0
+1659,TANet,163.24.244.0/22,ipv4,163.24.246.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,163.24.246.0
+1659,TANet,163.24.248.0/21,ipv4,163.24.252.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,163.24.252.0
+1659,TANet,163.28.0.0/16,ipv4,163.28.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,T-EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,163.28.128.0
+1659,TANet,163.30.0.0/15,ipv4,163.31.0.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,163.31.0.0
+1659,TANet,163.32.0.0/16,ipv4,163.32.128.0,success,,Taiwan,Kaohsiung,Zuoying,22.6824,120.2958,T-KPPRC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,163.32.128.0
+1659,TANet,192.83.166.0/23,ipv4,192.83.167.0,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.83.167.0
+1659,TANet,192.83.168.0/21,ipv4,192.83.172.0,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.83.172.0
+1659,TANet,192.83.176.0/20,ipv4,192.83.184.0,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.83.184.0
+1659,TANet,192.83.191.0/24,ipv4,192.83.191.128,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.83.191.128
+1659,TANet,192.83.192.0/22,ipv4,192.83.194.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,T-EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,192.83.194.0
+1659,TANet,192.83.193.0/24,ipv4,192.83.193.128,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.83.193.128
+1659,TANet,192.83.196.0/24,ipv4,192.83.196.128,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.83.196.128
+1659,TANet,192.192.0.0/16,ipv4,192.192.128.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.192.128.0
+1659,TANet,192.192.21.0/24,ipv4,192.192.21.128,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.192.21.128
+1659,TANet,192.192.22.0/24,ipv4,192.192.22.128,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.192.22.128
+1659,TANet,192.192.23.0/24,ipv4,192.192.23.128,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.192.23.128
+1659,TANet,192.192.24.0/23,ipv4,192.192.25.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.192.25.0
+1659,TANet,192.192.26.0/24,ipv4,192.192.26.128,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.192.26.128
+1659,TANet,192.192.48.0/21,ipv4,192.192.52.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.192.52.0
+1659,TANet,192.192.90.0/24,ipv4,192.192.90.128,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.192.90.128
+1659,TANet,192.192.91.0/24,ipv4,192.192.91.128,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.192.91.128
+1659,TANet,192.192.92.0/23,ipv4,192.192.93.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.192.93.0
+1659,TANet,192.192.94.0/24,ipv4,192.192.94.128,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.192.94.128
+1659,TANet,192.192.114.0/23,ipv4,192.192.115.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.192.115.0
+1659,TANet,192.192.120.0/23,ipv4,192.192.121.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.192.121.0
+1659,TANet,192.192.122.0/24,ipv4,192.192.122.128,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.192.122.128
+1659,TANet,192.192.248.0/22,ipv4,192.192.250.0,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.192.250.0
+1659,TANet,192.192.255.0/24,ipv4,192.192.255.128,success,,Taiwan,Taipei,Yingge District,24.9493,121.337,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,192.192.255.128
+1659,TANet,203.64.0.0/16,ipv4,203.64.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,NPTIC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,203.64.128.0
+1659,TANet,203.64.8.0/21,ipv4,203.64.12.0,success,,Taiwan,Hualien County,Hualien City,23.9807,121.6115,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,203.64.12.0
+1659,TANet,203.64.120.0/21,ipv4,203.64.124.0,success,,Taiwan,Hualien County,Hualien City,23.9807,121.6115,T-NPIC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,203.64.124.0
+1659,TANet,203.64.128.0/21,ipv4,203.64.132.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,NPTIC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,203.64.132.0
+1659,TANet,203.64.207.0/24,ipv4,203.64.207.128,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,SCC,AS1659 Taiwan Academic Network (TANet) Information Center,203.64.207.128
+1659,TANet,203.64.238.0/24,ipv4,203.64.238.128,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,T-KH.USC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,203.64.238.128
+1659,TANet,203.68.0.0/16,ipv4,203.68.128.0,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,203.68.128.0
+1659,TANet,203.68.94.0/23,ipv4,203.68.95.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6771,120.322,T-VGHKS.GOV.TW,AS1659 Taiwan Academic Network (TANet) Information Center,203.68.95.0
+1659,TANet,203.68.96.0/22,ipv4,203.68.98.0,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,203.68.98.0
+1659,TANet,203.71.0.0/16,ipv4,203.71.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,203.71.128.0
+1659,TANet,203.71.10.0/23,ipv4,203.71.11.0,success,,Taiwan,Taipei,Tamsui,25.172,121.443,T-TOUC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,203.71.11.0
+1659,TANet,203.71.12.0/22,ipv4,203.71.14.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,203.71.14.0
+1659,TANet,203.72.0.0/16,ipv4,203.72.128.0,success,,Taiwan,Yilan County,Yilan,24.757,121.753,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,203.72.128.0
+1659,TANet,203.72.0.0/21,ipv4,203.72.4.0,success,,Taiwan,Yilan County,Yilan,24.757,121.753,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,203.72.4.0
+1659,TANet,210.59.0.0/17,ipv4,210.59.64.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,210.59.64.0
+1659,TANet,210.60.0.0/16,ipv4,210.60.128.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,STGVS.TPC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.128.0
+1659,TANet,210.60.8.0/22,ipv4,210.60.10.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.10.0
+1659,TANet,210.60.12.0/23,ipv4,210.60.13.0,success,,Taiwan,Taipei,Tamsui,25.172,121.443,TOUC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.13.0
+1659,TANet,210.60.28.0/22,ipv4,210.60.30.0,success,,Taiwan,Taiwan,Taipei,25.0253,121.541,T-ASIA.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.30.0
+1659,TANet,210.60.80.0/21,ipv4,210.60.84.0,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.84.0
+1659,TANet,210.60.88.0/22,ipv4,210.60.90.0,success,,Taiwan,Taiwan,Taichung,24.1946,120.662,XXES.TC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.90.0
+1659,TANet,210.60.92.0/24,ipv4,210.60.92.128,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,GFES.TC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.92.128
+1659,TANet,210.60.119.0/24,ipv4,210.60.119.128,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,NDMCTSGH.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.119.128
+1659,TANet,210.60.122.0/23,ipv4,210.60.123.0,success,,Taiwan,Taiwan,Neihu District,25.0709,121.596,NDMCTSGH.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.123.0
+1659,TANet,210.60.124.0/23,ipv4,210.60.125.0,success,,Taiwan,Taiwan,Neihu District,25.0709,121.596,NDMCTSGH.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.125.0
+1659,TANet,210.60.126.0/24,ipv4,210.60.126.128,success,,Taiwan,Taiwan,Neihu District,25.0709,121.596,NDMCTSGH.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.126.128
+1659,TANet,210.60.183.0/24,ipv4,210.60.183.128,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,ISU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.183.128
+1659,TANet,210.60.184.0/22,ipv4,210.60.186.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,ISU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.186.0
+1659,TANet,210.60.188.0/23,ipv4,210.60.189.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.189.0
+1659,TANet,210.60.190.0/24,ipv4,210.60.190.128,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,ISU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.190.128
+1659,TANet,210.60.221.0/24,ipv4,210.60.221.128,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,TKU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.221.128
+1659,TANet,210.60.222.0/24,ipv4,210.60.222.128,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,TKU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.222.128
+1659,TANet,210.60.223.0/24,ipv4,210.60.223.128,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,TKU.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.60.223.128
+1659,TANet,210.62.64.0/19,ipv4,210.62.80.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,TANET,AS1659 Taiwan Academic Network (TANet) Information Center,210.62.80.0
+1659,TANet,210.62.224.0/20,ipv4,210.62.232.0,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,T-MOE.GOV.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.62.232.0
+1659,TANet,210.62.240.0/21,ipv4,210.62.244.0,success,,Taiwan,Taiwan,Taipei,25.0253,121.541,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,210.62.244.0
+1659,TANet,210.67.248.0/21,ipv4,210.67.252.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,TANET,AS1659 Taiwan Academic Network (TANet) Information Center,210.67.252.0
+1659,TANet,210.70.0.0/16,ipv4,210.70.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,210.70.128.0
+1659,TANet,210.70.79.0/24,ipv4,210.70.79.128,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-ASIA.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.70.79.128
+1659,TANet,210.70.80.0/24,ipv4,210.70.80.128,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-ASIA.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.70.80.128
+1659,TANet,210.70.82.0/23,ipv4,210.70.83.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-ASIA.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.70.83.0
+1659,TANet,210.70.84.0/22,ipv4,210.70.86.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-ASIA.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.70.86.0
+1659,TANet,210.70.94.0/23,ipv4,210.70.95.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,210.70.95.0
+1659,TANet,210.71.0.0/17,ipv4,210.71.64.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-THSH.TP.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.71.64.0
+1659,TANet,210.240.0.0/16,ipv4,210.240.128.0,success,,Taiwan,Taitung,Taitung,22.7564,121.1418,DCPS.TTCT,AS1659 Taiwan Academic Network (TANet) Information Center,210.240.128.0
+1659,TANet,210.240.202.0/23,ipv4,210.240.203.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-NHMC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.240.203.0
+1659,TANet,210.240.204.0/24,ipv4,210.240.204.128,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-NHMC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.240.204.128
+1659,TANet,210.240.205.0/24,ipv4,210.240.205.128,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-NHMC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.240.205.128
+1659,TANet,210.240.206.0/24,ipv4,210.240.206.128,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-NHMC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.240.206.128
+1659,TANet,210.240.207.0/24,ipv4,210.240.207.128,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-NHMC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.240.207.128
+1659,TANet,210.240.208.0/24,ipv4,210.240.208.128,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-NHMC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.240.208.128
+1659,TANet,210.240.209.0/24,ipv4,210.240.209.128,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-NHMC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.240.209.128
+1659,TANet,210.240.210.0/24,ipv4,210.240.210.128,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-NHMC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.240.210.128
+1659,TANet,210.240.211.0/24,ipv4,210.240.211.128,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-NHMC.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.240.211.128
+1659,TANet,210.240.232.0/21,ipv4,210.240.236.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-MCUT.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.240.236.0
+1659,TANet,210.240.240.0/21,ipv4,210.240.244.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-MCUT.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.240.244.0
+1659,TANet,210.240.248.0/23,ipv4,210.240.249.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,T-MCUT.EDU.TW,AS1659 Taiwan Academic Network (TANet) Information Center,210.240.249.0
+1659,TANet,210.243.0.0/18,ipv4,210.243.32.0,success,,Taiwan,New Taipei City,Beitou,25.1403,121.4948,Taiwan Academic Network (TANet) Information Center,AS1659 Taiwan Academic Network (TANet) Information Center,210.243.32.0
+1659,TANet,2001:288::/32,ipv6,2001:288:8000::,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,TANET-TWNIC,AS1659 Taiwan Academic Network (TANet) Information Center,2001:288:8000::

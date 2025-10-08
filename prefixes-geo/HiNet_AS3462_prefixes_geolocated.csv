@@ -1,0 +1,302 @@
+asn,name,prefix,family,center_ip,geo_status,geo_message,country,region,city,lat,lon,isp,as,query
+3462,HiNet,1.34.0.0/15,ipv4,1.35.0.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.35.0.0
+3462,HiNet,1.34.0.0/16,ipv4,1.34.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.34.128.0
+3462,HiNet,1.35.0.0/16,ipv4,1.35.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.35.128.0
+3462,HiNet,1.160.0.0/16,ipv4,1.160.128.0,success,,Taiwan,Taoyuan,Zhongli District,24.9604,121.2392,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.160.128.0
+3462,HiNet,1.160.0.0/12,ipv4,1.168.0.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.168.0.0
+3462,HiNet,1.161.0.0/16,ipv4,1.161.128.0,success,,Taiwan,Hsinchu City,Hsinchu,24.8065,120.9706,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.161.128.0
+3462,HiNet,1.162.0.0/16,ipv4,1.162.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.162.128.0
+3462,HiNet,1.163.0.0/16,ipv4,1.163.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.163.128.0
+3462,HiNet,1.164.0.0/16,ipv4,1.164.128.0,success,,Taiwan,Taoyuan,Taoyuan District,24.9889,121.3176,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.164.128.0
+3462,HiNet,1.165.0.0/16,ipv4,1.165.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.165.128.0
+3462,HiNet,1.166.0.0/16,ipv4,1.166.128.0,success,,Taiwan,Taiwan,Taipei,25.0367,121.524,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.166.128.0
+3462,HiNet,1.167.0.0/16,ipv4,1.167.128.0,success,,Taiwan,Taiwan,Taipei,25.0367,121.524,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.167.128.0
+3462,HiNet,1.168.0.0/16,ipv4,1.168.128.0,success,,Taiwan,Yunlin,Yunlin,23.7113,120.3897,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.168.128.0
+3462,HiNet,1.169.0.0/16,ipv4,1.169.128.0,success,,Taiwan,Taoyuan,Taoyuan District,24.9889,121.3176,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.169.128.0
+3462,HiNet,1.170.0.0/16,ipv4,1.170.128.0,success,,Taiwan,Yunlin,Yunlin,23.7113,120.3897,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.170.128.0
+3462,HiNet,1.171.0.0/16,ipv4,1.171.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.171.128.0
+3462,HiNet,1.172.0.0/16,ipv4,1.172.128.0,success,,Taiwan,Kinmen County,Kinmen County,24.4515,118.3827,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.172.128.0
+3462,HiNet,1.173.0.0/16,ipv4,1.173.128.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.173.128.0
+3462,HiNet,1.174.0.0/16,ipv4,1.174.128.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.174.128.0
+3462,HiNet,1.175.0.0/16,ipv4,1.175.128.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,1.175.128.0
+3462,HiNet,36.224.0.0/16,ipv4,36.224.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,36.224.128.0
+3462,HiNet,36.225.0.0/16,ipv4,36.225.128.0,success,,Taiwan,Taoyuan,Zhongli District,24.9604,121.2392,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,36.225.128.0
+3462,HiNet,36.226.0.0/16,ipv4,36.226.128.0,success,,Taiwan,Taoyuan,Taoyuan District,24.9889,121.3176,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,36.226.128.0
+3462,HiNet,36.227.0.0/16,ipv4,36.227.128.0,success,,Taiwan,Hsinchu City,Hsinchu,24.8065,120.9706,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,36.227.128.0
+3462,HiNet,36.228.0.0/16,ipv4,36.228.128.0,success,,Taiwan,Taoyuan,Taoyuan District,24.9889,121.3176,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,36.228.128.0
+3462,HiNet,36.229.0.0/16,ipv4,36.229.128.0,success,,Taiwan,New Taipei City,Sanchong District,25.0705,121.4904,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,36.229.128.0
+3462,HiNet,36.230.0.0/16,ipv4,36.230.128.0,success,,Taiwan,Hsinchu City,Hsinchu,24.8065,120.9706,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,36.230.128.0
+3462,HiNet,36.231.0.0/16,ipv4,36.231.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,36.231.128.0
+3462,HiNet,36.232.0.0/16,ipv4,36.232.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,36.232.128.0
+3462,HiNet,36.233.0.0/16,ipv4,36.233.128.0,success,,Taiwan,Nantou,Nantou City,23.9082,120.6559,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,36.233.128.0
+3462,HiNet,36.234.0.0/16,ipv4,36.234.128.0,success,,Taiwan,Changhua,Chang-hua,24.0761,120.5648,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,36.234.128.0
+3462,HiNet,36.235.0.0/16,ipv4,36.235.128.0,success,,Taiwan,Changhua,Chang-hua,24.0761,120.5648,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,36.235.128.0
+3462,HiNet,36.236.0.0/16,ipv4,36.236.128.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,36.236.128.0
+3462,HiNet,36.237.0.0/16,ipv4,36.237.128.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,36.237.128.0
+3462,HiNet,36.238.0.0/16,ipv4,36.238.128.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,36.238.128.0
+3462,HiNet,36.239.0.0/16,ipv4,36.239.128.0,success,,Taiwan,Pingtung,Pingtung City,22.6745,120.491,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,36.239.128.0
+3462,HiNet,59.112.0.0/16,ipv4,59.112.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,59.112.128.0
+3462,HiNet,59.113.0.0/16,ipv4,59.113.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,59.113.128.0
+3462,HiNet,59.114.0.0/16,ipv4,59.114.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,59.114.128.0
+3462,HiNet,59.115.0.0/16,ipv4,59.115.128.0,success,,Taiwan,Hsinchu City,Hsinchu,24.8065,120.9706,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,59.115.128.0
+3462,HiNet,59.116.0.0/16,ipv4,59.116.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,59.116.128.0
+3462,HiNet,59.117.0.0/16,ipv4,59.117.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,59.117.128.0
+3462,HiNet,59.118.0.0/16,ipv4,59.118.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,59.118.128.0
+3462,HiNet,59.119.0.0/16,ipv4,59.119.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,59.119.128.0
+3462,HiNet,59.120.0.0/16,ipv4,59.120.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,59.120.128.0
+3462,HiNet,59.121.0.0/16,ipv4,59.121.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,59.121.128.0
+3462,HiNet,59.122.0.0/16,ipv4,59.122.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,59.122.128.0
+3462,HiNet,59.123.0.0/16,ipv4,59.123.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,59.123.128.0
+3462,HiNet,59.124.0.0/16,ipv4,59.124.128.0,success,,Taiwan,Taoyuan,Taoyuan District,24.9889,121.3176,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,59.124.128.0
+3462,HiNet,59.125.0.0/16,ipv4,59.125.128.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,59.125.128.0
+3462,HiNet,59.126.0.0/16,ipv4,59.126.128.0,success,,Taiwan,Miaoli,Miaoli,24.5641,120.8275,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,59.126.128.0
+3462,HiNet,59.127.0.0/16,ipv4,59.127.128.0,success,,Taiwan,Taichung City,Xitun,24.183,120.6419,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,59.127.128.0
+3462,HiNet,60.248.0.0/16,ipv4,60.248.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,60.248.128.0
+3462,HiNet,60.249.0.0/16,ipv4,60.249.128.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,60.249.128.0
+3462,HiNet,60.250.0.0/16,ipv4,60.250.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,60.250.128.0
+3462,HiNet,60.251.0.0/16,ipv4,60.251.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,60.251.128.0
+3462,HiNet,61.216.0.0/16,ipv4,61.216.128.0,success,,Taiwan,Hsinchu City,Hsinchu,24.8065,120.9706,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.216.128.0
+3462,HiNet,61.217.0.0/16,ipv4,61.217.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.217.128.0
+3462,HiNet,61.218.0.0/16,ipv4,61.218.128.0,success,,Taiwan,Hualien County,Hualien City,23.9807,121.6115,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.218.128.0
+3462,HiNet,61.219.0.0/16,ipv4,61.219.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.219.128.0
+3462,HiNet,61.220.0.0/16,ipv4,61.220.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.220.128.0
+3462,HiNet,61.220.0.0/14,ipv4,61.222.0.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.222.0.0
+3462,HiNet,61.221.0.0/16,ipv4,61.221.128.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.221.128.0
+3462,HiNet,61.222.0.0/16,ipv4,61.222.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.222.128.0
+3462,HiNet,61.223.0.0/16,ipv4,61.223.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.223.128.0
+3462,HiNet,61.224.0.0/14,ipv4,61.226.0.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.226.0.0
+3462,HiNet,61.224.0.0/16,ipv4,61.224.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.224.128.0
+3462,HiNet,61.225.0.0/16,ipv4,61.225.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.225.128.0
+3462,HiNet,61.226.0.0/16,ipv4,61.226.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.226.128.0
+3462,HiNet,61.227.0.0/16,ipv4,61.227.128.0,success,,Taiwan,Pingtung,Pingtung City,22.6745,120.491,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.227.128.0
+3462,HiNet,61.228.0.0/16,ipv4,61.228.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.228.128.0
+3462,HiNet,61.229.0.0/16,ipv4,61.229.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.229.128.0
+3462,HiNet,61.230.0.0/16,ipv4,61.230.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.230.128.0
+3462,HiNet,61.231.0.0/16,ipv4,61.231.128.0,success,,Taiwan,Taoyuan,Zhongli District,24.9604,121.2392,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,61.231.128.0
+3462,HiNet,103.21.60.0/23,ipv4,103.21.61.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,Bank Of Taiwan,AS131148 Bank Of Taiwan,103.21.61.0
+3462,HiNet,103.21.62.0/23,ipv4,103.21.63.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,Bank Of Taiwan,AS131148 Bank Of Taiwan,103.21.63.0
+3462,HiNet,104.107.56.0/22,ipv4,104.107.58.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,104.107.58.0
+3462,HiNet,107.155.30.0/24,ipv4,107.155.30.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,Zenlayer Inc,AS3462 Data Communication Business Group,107.155.30.128
+3462,HiNet,111.240.0.0/16,ipv4,111.240.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.240.128.0
+3462,HiNet,111.240.0.0/12,ipv4,111.248.0.0,success,,Taiwan,Taoyuan,Zhongli District,24.9604,121.2392,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.248.0.0
+3462,HiNet,111.241.0.0/16,ipv4,111.241.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.241.128.0
+3462,HiNet,111.242.0.0/16,ipv4,111.242.128.0,success,,Taiwan,Pingtung,Pingtung City,22.6745,120.491,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.242.128.0
+3462,HiNet,111.243.0.0/16,ipv4,111.243.128.0,success,,Taiwan,Taoyuan,Zhongli District,24.9604,121.2392,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.243.128.0
+3462,HiNet,111.244.0.0/18,ipv4,111.244.32.0,success,,Taiwan,Taiwan,Taipei,25.0367,121.524,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.244.32.0
+3462,HiNet,111.244.64.0/18,ipv4,111.244.96.0,success,,Taiwan,Taiwan,Taipei,25.0367,121.524,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.244.96.0
+3462,HiNet,111.244.128.0/17,ipv4,111.244.192.0,success,,Taiwan,Taiwan,Taipei,25.0367,121.524,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.244.192.0
+3462,HiNet,111.245.0.0/16,ipv4,111.245.128.0,success,,Taiwan,Taiwan,Taipei,25.0367,121.524,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.245.128.0
+3462,HiNet,111.246.0.0/16,ipv4,111.246.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.246.128.0
+3462,HiNet,111.247.0.0/16,ipv4,111.247.128.0,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.247.128.0
+3462,HiNet,111.248.0.0/16,ipv4,111.248.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.248.128.0
+3462,HiNet,111.249.0.0/16,ipv4,111.249.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.249.128.0
+3462,HiNet,111.250.0.0/16,ipv4,111.250.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.250.128.0
+3462,HiNet,111.251.0.0/16,ipv4,111.251.128.0,success,,Taiwan,Taoyuan,Taoyuan District,24.9889,121.3176,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.251.128.0
+3462,HiNet,111.252.0.0/16,ipv4,111.252.128.0,success,,Taiwan,Changhua,Chang-hua,24.0761,120.5648,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.252.128.0
+3462,HiNet,111.253.0.0/16,ipv4,111.253.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.253.128.0
+3462,HiNet,111.254.0.0/16,ipv4,111.254.128.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.254.128.0
+3462,HiNet,111.255.0.0/16,ipv4,111.255.128.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,111.255.128.0
+3462,HiNet,114.24.0.0/14,ipv4,114.26.0.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.26.0.0
+3462,HiNet,114.24.0.0/16,ipv4,114.24.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.24.128.0
+3462,HiNet,114.25.0.0/16,ipv4,114.25.128.0,success,,Taiwan,Taoyuan,Zhongli District,24.9604,121.2392,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.25.128.0
+3462,HiNet,114.26.0.0/16,ipv4,114.26.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.26.128.0
+3462,HiNet,114.27.0.0/16,ipv4,114.27.128.0,success,,Taiwan,Pingtung,Pingtung City,22.6745,120.491,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.27.128.0
+3462,HiNet,114.32.0.0/16,ipv4,114.32.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.32.128.0
+3462,HiNet,114.32.0.0/12,ipv4,114.40.0.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.40.0.0
+3462,HiNet,114.33.0.0/16,ipv4,114.33.128.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.33.128.0
+3462,HiNet,114.34.0.0/16,ipv4,114.34.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.34.128.0
+3462,HiNet,114.35.0.0/16,ipv4,114.35.128.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.35.128.0
+3462,HiNet,114.36.0.0/16,ipv4,114.36.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.36.128.0
+3462,HiNet,114.37.0.0/16,ipv4,114.37.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.37.128.0
+3462,HiNet,114.38.0.0/16,ipv4,114.38.128.0,success,,Taiwan,Yunlin,Yunlin,23.7113,120.3897,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.38.128.0
+3462,HiNet,114.39.0.0/16,ipv4,114.39.128.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.39.128.0
+3462,HiNet,114.40.0.0/16,ipv4,114.40.128.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.40.128.0
+3462,HiNet,114.41.0.0/16,ipv4,114.41.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.41.128.0
+3462,HiNet,114.42.0.0/16,ipv4,114.42.128.0,success,,Taiwan,Nantou,Puli,23.9678,120.9644,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.42.128.0
+3462,HiNet,114.43.0.0/16,ipv4,114.43.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.43.128.0
+3462,HiNet,114.44.0.0/16,ipv4,114.44.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.44.128.0
+3462,HiNet,114.45.0.0/16,ipv4,114.45.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.45.128.0
+3462,HiNet,114.46.0.0/16,ipv4,114.46.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.46.128.0
+3462,HiNet,114.47.0.0/16,ipv4,114.47.128.0,success,,Taiwan,Kinmen County,Jincheng,24.4279,118.3164,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,114.47.128.0
+3462,HiNet,118.160.0.0/16,ipv4,118.160.128.0,success,,Taiwan,Hsinchu County,Zhubei,24.8351,121.0056,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,118.160.128.0
+3462,HiNet,118.161.0.0/16,ipv4,118.161.128.0,success,,Taiwan,Taoyuan,Zhongli District,24.9604,121.2392,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,118.161.128.0
+3462,HiNet,118.162.0.0/16,ipv4,118.162.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,118.162.128.0
+3462,HiNet,118.163.0.0/16,ipv4,118.163.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,118.163.128.0
+3462,HiNet,118.164.0.0/16,ipv4,118.164.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,118.164.128.0
+3462,HiNet,118.165.0.0/16,ipv4,118.165.128.0,success,,Taiwan,Yilan County,Yilan,24.757,121.753,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,118.165.128.0
+3462,HiNet,118.166.0.0/16,ipv4,118.166.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,118.166.128.0
+3462,HiNet,118.167.0.0/16,ipv4,118.167.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,118.167.128.0
+3462,HiNet,118.168.0.0/16,ipv4,118.168.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,118.168.128.0
+3462,HiNet,118.169.0.0/16,ipv4,118.169.128.0,success,,Taiwan,Yilan County,Yilan,24.757,121.753,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,118.169.128.0
+3462,HiNet,118.170.0.0/16,ipv4,118.170.128.0,success,,Taiwan,Yunlin,Yunlin,23.7113,120.3897,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,118.170.128.0
+3462,HiNet,118.171.0.0/16,ipv4,118.171.128.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,118.171.128.0
+3462,HiNet,122.116.0.0/16,ipv4,122.116.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,122.116.128.0
+3462,HiNet,122.117.0.0/16,ipv4,122.117.128.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,122.117.128.0
+3462,HiNet,122.118.0.0/16,ipv4,122.118.128.0,success,,Taiwan,Changhua,Chang-hua,24.0761,120.5648,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,122.118.128.0
+3462,HiNet,122.120.0.0/16,ipv4,122.120.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,122.120.128.0
+3462,HiNet,122.121.0.0/16,ipv4,122.121.128.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,122.121.128.0
+3462,HiNet,122.122.0.0/16,ipv4,122.122.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,122.122.128.0
+3462,HiNet,122.123.0.0/16,ipv4,122.123.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,122.123.128.0
+3462,HiNet,122.124.0.0/16,ipv4,122.124.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,122.124.128.0
+3462,HiNet,122.125.0.0/16,ipv4,122.125.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,122.125.128.0
+3462,HiNet,122.126.0.0/16,ipv4,122.126.128.0,success,,Taiwan,Taiwan,Taipei,25.0367,121.524,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,122.126.128.0
+3462,HiNet,122.127.0.0/16,ipv4,122.127.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,122.127.128.0
+3462,HiNet,125.224.0.0/16,ipv4,125.224.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,125.224.128.0
+3462,HiNet,125.225.0.0/16,ipv4,125.225.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,125.225.128.0
+3462,HiNet,125.226.0.0/16,ipv4,125.226.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,125.226.128.0
+3462,HiNet,125.227.0.0/16,ipv4,125.227.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,125.227.128.0
+3462,HiNet,125.228.0.0/16,ipv4,125.228.128.0,success,,Taiwan,Hsinchu City,Hsinchu,24.8065,120.9706,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,125.228.128.0
+3462,HiNet,125.229.0.0/16,ipv4,125.229.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,125.229.128.0
+3462,HiNet,125.230.0.0/16,ipv4,125.230.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,125.230.128.0
+3462,HiNet,125.231.0.0/16,ipv4,125.231.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,125.231.128.0
+3462,HiNet,125.232.0.0/16,ipv4,125.232.128.0,success,,Taiwan,Taiwan,Taipei,25.0367,121.524,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,125.232.128.0
+3462,HiNet,125.233.0.0/16,ipv4,125.233.128.0,success,,Taiwan,Taiwan,Taipei,25.0367,121.524,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,125.233.128.0
+3462,HiNet,128.1.102.0/23,ipv4,128.1.103.0,success,,Singapore,North West,Singapore,1.35208,103.82,Zenlayer Inc,AS21859 Zenlayer Inc,128.1.103.0
+3462,HiNet,149.117.216.0/24,ipv4,149.117.216.128,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,149.117.216.128
+3462,HiNet,168.95.0.0/16,ipv4,168.95.128.0,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,168.95.128.0
+3462,HiNet,192.254.86.0/24,ipv4,192.254.86.128,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,Zenlayer Inc,AS3462 Data Communication Business Group,192.254.86.128
+3462,HiNet,202.39.0.0/18,ipv4,202.39.32.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,202.39.32.0
+3462,HiNet,202.39.64.0/20,ipv4,202.39.72.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,202.39.72.0
+3462,HiNet,202.39.128.0/17,ipv4,202.39.192.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,202.39.192.0
+3462,HiNet,202.126.76.0/24,ipv4,202.126.76.128,success,,Taiwan,Taiwan,Hsinchu,24.7823,121.006,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,202.126.76.128
+3462,HiNet,202.126.77.0/24,ipv4,202.126.77.128,success,,Taiwan,Taiwan,Hsinchu,24.7823,121.006,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,202.126.77.128
+3462,HiNet,203.66.0.0/16,ipv4,203.66.128.0,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,203.66.128.0
+3462,HiNet,203.69.0.0/16,ipv4,203.69.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,203.69.128.0
+3462,HiNet,203.74.0.0/16,ipv4,203.74.128.0,success,,Taiwan,Taoyuan,Bade District,24.9309,121.2904,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,203.74.128.0
+3462,HiNet,203.75.0.0/16,ipv4,203.75.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,203.75.128.0
+3462,HiNet,210.59.128.0/17,ipv4,210.59.192.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,210.59.192.0
+3462,HiNet,210.61.0.0/16,ipv4,210.61.128.0,success,,Taiwan,Taipei City,Daan,25.0316,121.5345,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,210.61.128.0
+3462,HiNet,210.65.0.0/16,ipv4,210.65.128.0,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,210.65.128.0
+3462,HiNet,210.65.21.0/24,ipv4,210.65.21.128,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,210.65.21.128
+3462,HiNet,210.71.128.0/17,ipv4,210.71.192.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,210.71.192.0
+3462,HiNet,210.241.224.0/19,ipv4,210.241.240.0,success,,Taiwan,Miaoli,Miaoli,24.5641,120.8275,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,210.241.240.0
+3462,HiNet,210.242.0.0/16,ipv4,210.242.128.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,210.242.128.0
+3462,HiNet,211.20.0.0/16,ipv4,211.20.128.0,success,,Taiwan,Taichung City,Taichung City,24.1547,120.6716,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,211.20.128.0
+3462,HiNet,211.21.0.0/16,ipv4,211.21.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,211.21.128.0
+3462,HiNet,211.22.0.0/16,ipv4,211.22.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,211.22.128.0
+3462,HiNet,211.22.33.0/24,ipv4,211.22.33.128,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,211.22.33.128
+3462,HiNet,211.23.0.0/16,ipv4,211.23.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,211.23.128.0
+3462,HiNet,211.72.0.0/16,ipv4,211.72.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,211.72.128.0
+3462,HiNet,211.72.233.0/24,ipv4,211.72.233.128,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,211.72.233.128
+3462,HiNet,211.75.0.0/16,ipv4,211.75.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,211.75.128.0
+3462,HiNet,218.160.0.0/16,ipv4,218.160.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.160.128.0
+3462,HiNet,218.161.0.0/16,ipv4,218.161.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.161.128.0
+3462,HiNet,218.161.0.0/17,ipv4,218.161.64.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.161.64.0
+3462,HiNet,218.161.128.0/17,ipv4,218.161.192.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.161.192.0
+3462,HiNet,218.162.0.0/16,ipv4,218.162.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.162.128.0
+3462,HiNet,218.163.0.0/16,ipv4,218.163.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.163.128.0
+3462,HiNet,218.164.0.0/16,ipv4,218.164.128.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.164.128.0
+3462,HiNet,218.165.0.0/16,ipv4,218.165.128.0,success,,Taiwan,Taiwan,Taipei,25.0367,121.524,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.165.128.0
+3462,HiNet,218.166.0.0/16,ipv4,218.166.128.0,success,,Taiwan,Taitung,Taitung,22.7564,121.1418,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.166.128.0
+3462,HiNet,218.167.0.0/16,ipv4,218.167.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.167.128.0
+3462,HiNet,218.168.0.0/16,ipv4,218.168.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.168.128.0
+3462,HiNet,218.169.0.0/16,ipv4,218.169.128.0,success,,Taiwan,Taiwan,Taipei,25.0367,121.524,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.169.128.0
+3462,HiNet,218.170.0.0/16,ipv4,218.170.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.170.128.0
+3462,HiNet,218.171.0.0/16,ipv4,218.171.128.0,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.171.128.0
+3462,HiNet,218.172.0.0/16,ipv4,218.172.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.172.128.0
+3462,HiNet,218.173.0.0/16,ipv4,218.173.128.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.173.128.0
+3462,HiNet,218.174.0.0/16,ipv4,218.174.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.174.128.0
+3462,HiNet,218.175.0.0/16,ipv4,218.175.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,218.175.128.0
+3462,HiNet,220.128.72.0/24,ipv4,220.128.72.128,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.128.72.128
+3462,HiNet,220.128.77.0/24,ipv4,220.128.77.128,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.128.77.128
+3462,HiNet,220.128.79.0/24,ipv4,220.128.79.128,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.128.79.128
+3462,HiNet,220.128.80.0/24,ipv4,220.128.80.128,success,,Taiwan,Taiwan,Taipei,25.033,121.565,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.128.80.128
+3462,HiNet,220.128.96.0/19,ipv4,220.128.112.0,success,,Taiwan,Taoyuan,Guishan,25.0273,121.359,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.128.112.0
+3462,HiNet,220.128.128.0/17,ipv4,220.128.192.0,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.128.192.0
+3462,HiNet,220.129.0.0/16,ipv4,220.129.128.0,success,,Taiwan,Hsinchu County,Zhubei,24.8351,121.0056,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.129.128.0
+3462,HiNet,220.130.0.0/16,ipv4,220.130.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.130.128.0
+3462,HiNet,220.131.0.0/16,ipv4,220.131.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.131.128.0
+3462,HiNet,220.132.0.0/16,ipv4,220.132.128.0,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.132.128.0
+3462,HiNet,220.133.0.0/16,ipv4,220.133.128.0,success,,Taiwan,Taoyuan,Yangmei District,24.9102,121.1482,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.133.128.0
+3462,HiNet,220.134.0.0/16,ipv4,220.134.128.0,success,,Taiwan,Taoyuan,Taoyuan District,24.9889,121.3176,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.134.128.0
+3462,HiNet,220.135.0.0/16,ipv4,220.135.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.135.128.0
+3462,HiNet,220.136.0.0/16,ipv4,220.136.128.0,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.136.128.0
+3462,HiNet,220.137.0.0/16,ipv4,220.137.128.0,success,,Taiwan,Taoyuan,Taoyuan District,24.9889,121.3176,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.137.128.0
+3462,HiNet,220.138.0.0/16,ipv4,220.138.128.0,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.138.128.0
+3462,HiNet,220.139.0.0/16,ipv4,220.139.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.139.128.0
+3462,HiNet,220.140.0.0/16,ipv4,220.140.128.0,success,,Taiwan,Taiwan,Neihu District,25.0689,121.591,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.140.128.0
+3462,HiNet,220.141.0.0/16,ipv4,220.141.128.0,success,,Taiwan,Taoyuan,Taoyuan District,24.9889,121.3176,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.141.128.0
+3462,HiNet,220.142.0.0/16,ipv4,220.142.128.0,success,,Taiwan,Pingtung,Pingtung City,22.6745,120.491,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.142.128.0
+3462,HiNet,220.143.0.0/16,ipv4,220.143.128.0,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,220.143.128.0
+3462,HiNet,2001:b000:100::/40,ipv6,2001:b000:180::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b000:180::
+3462,HiNet,2001:b000:400::/38,ipv6,2001:b000:600::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b000:600::
+3462,HiNet,2001:b001::/32,ipv6,2001:b001:8000::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b001:8000::
+3462,HiNet,2001:b010::/28,ipv6,2001:b018::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b018::
+3462,HiNet,2001:b011::/37,ipv6,2001:b011:400::,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:400::
+3462,HiNet,2001:b011:1000::/37,ipv6,2001:b011:1400::,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:1400::
+3462,HiNet,2001:b011:2000::/36,ipv6,2001:b011:2800::,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:2800::
+3462,HiNet,2001:b011:3000::/37,ipv6,2001:b011:3400::,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:3400::
+3462,HiNet,2001:b011:3800::/37,ipv6,2001:b011:3c00::,success,,Taiwan,New Taipei City,New Taipei City,25.0693,121.4626,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:3c00::
+3462,HiNet,2001:b011:4000::/37,ipv6,2001:b011:4400::,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:4400::
+3462,HiNet,2001:b011:5c00::/38,ipv6,2001:b011:5e00::,success,,Taiwan,Taoyuan,Taoyuan District,24.9889,121.3176,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:5e00::
+3462,HiNet,2001:b011:6800::/37,ipv6,2001:b011:6c00::,success,,Taiwan,Taoyuan,Zhongli District,24.9604,121.2392,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:6c00::
+3462,HiNet,2001:b011:7000::/37,ipv6,2001:b011:7400::,success,,Taiwan,Hsinchu City,Hsinchu,24.8065,120.9706,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:7400::
+3462,HiNet,2001:b011:7800::/38,ipv6,2001:b011:7a00::,success,,Taiwan,Yilan County,Yilan,24.757,121.753,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:7a00::
+3462,HiNet,2001:b011:7c00::/38,ipv6,2001:b011:7e00::,success,,Taiwan,Hualien County,Hualien City,23.9807,121.6115,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:7e00::
+3462,HiNet,2001:b011:8000::/36,ipv6,2001:b011:8800::,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:8800::
+3462,HiNet,2001:b011:9800::/38,ipv6,2001:b011:9a00::,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:9a00::
+3462,HiNet,2001:b011:a400::/38,ipv6,2001:b011:a600::,success,,Taiwan,Changhua,Chang-hua,24.0761,120.5648,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:a600::
+3462,HiNet,2001:b011:b000::/38,ipv6,2001:b011:b200::,success,,Taiwan,Miaoli,Miaoli,24.5641,120.8275,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:b200::
+3462,HiNet,2001:b011:b800::/38,ipv6,2001:b011:ba00::,success,,Taiwan,Yunlin,Yunlin,23.7113,120.3897,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:ba00::
+3462,HiNet,2001:b011:bc00::/38,ipv6,2001:b011:be00::,success,,Taiwan,Nantou,Nantou City,23.9082,120.6559,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:be00::
+3462,HiNet,2001:b011:c000::/37,ipv6,2001:b011:c400::,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:c400::
+3462,HiNet,2001:b011:d000::/38,ipv6,2001:b011:d200::,success,,Taiwan,Chiayi,Chiayi City,23.4815,120.4498,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:d200::
+3462,HiNet,2001:b011:d800::/38,ipv6,2001:b011:da00::,success,,Taiwan,Tainan,Tainan City,22.9917,120.2148,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:da00::
+3462,HiNet,2001:b011:e000::/38,ipv6,2001:b011:e200::,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:e200::
+3462,HiNet,2001:b011:e600::/39,ipv6,2001:b011:e700::,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:e700::
+3462,HiNet,2001:b011:f200::/39,ipv6,2001:b011:f300::,success,,Taiwan,Pingtung,Pingtung City,22.6745,120.491,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:f300::
+3462,HiNet,2001:b011:fa00::/39,ipv6,2001:b011:fb00::,success,,Taiwan,Taitung,Taitung,22.7564,121.1418,Hinet Twnic,AS3462 Data Communication Business Group,2001:b011:fb00::
+3462,HiNet,2001:b020::/27,ipv6,2001:b030::,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030::
+3462,HiNet,2001:b030::/37,ipv6,2001:b030:400::,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:400::
+3462,HiNet,2001:b030:1000::/37,ipv6,2001:b030:1400::,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:1400::
+3462,HiNet,2001:b030:2000::/36,ipv6,2001:b030:2800::,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:2800::
+3462,HiNet,2001:b030:5c00::/38,ipv6,2001:b030:5e00::,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:5e00::
+3462,HiNet,2001:b030:7000::/37,ipv6,2001:b030:7400::,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:7400::
+3462,HiNet,2001:b030:7800::/38,ipv6,2001:b030:7a00::,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:7a00::
+3462,HiNet,2001:b030:7c00::/38,ipv6,2001:b030:7e00::,success,,Taiwan,Taipei City,Taipei,25.053,121.5259,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:7e00::
+3462,HiNet,2001:b030:8000::/36,ipv6,2001:b030:8800::,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:8800::
+3462,HiNet,2001:b030:a400::/38,ipv6,2001:b030:a600::,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:a600::
+3462,HiNet,2001:b030:a800::/38,ipv6,2001:b030:aa00::,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:aa00::
+3462,HiNet,2001:b030:b000::/38,ipv6,2001:b030:b200::,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:b200::
+3462,HiNet,2001:b030:b800::/38,ipv6,2001:b030:ba00::,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:ba00::
+3462,HiNet,2001:b030:bc00::/38,ipv6,2001:b030:be00::,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:be00::
+3462,HiNet,2001:b030:c000::/37,ipv6,2001:b030:c400::,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:c400::
+3462,HiNet,2001:b030:d000::/38,ipv6,2001:b030:d200::,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:d200::
+3462,HiNet,2001:b030:d800::/38,ipv6,2001:b030:da00::,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:da00::
+3462,HiNet,2001:b030:f200::/39,ipv6,2001:b030:f300::,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:f300::
+3462,HiNet,2001:b030:fa00::/39,ipv6,2001:b030:fb00::,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:fb00::
+3462,HiNet,2001:b030:fc00::/39,ipv6,2001:b030:fd00::,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:fd00::
+3462,HiNet,2001:b030:fe00::/39,ipv6,2001:b030:ff00::,success,,Taiwan,Taichung City,Taichung,24.144,120.6844,Hinet Twnic,AS3462 Data Communication Business Group,2001:b030:ff00::
+3462,HiNet,2001:b031::/37,ipv6,2001:b031:400::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:400::
+3462,HiNet,2001:b031:1000::/37,ipv6,2001:b031:1400::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:1400::
+3462,HiNet,2001:b031:2000::/36,ipv6,2001:b031:2800::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:2800::
+3462,HiNet,2001:b031:5c00::/38,ipv6,2001:b031:5e00::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:5e00::
+3462,HiNet,2001:b031:7000::/37,ipv6,2001:b031:7400::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:7400::
+3462,HiNet,2001:b031:7800::/38,ipv6,2001:b031:7a00::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:7a00::
+3462,HiNet,2001:b031:7c00::/38,ipv6,2001:b031:7e00::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:7e00::
+3462,HiNet,2001:b031:8000::/36,ipv6,2001:b031:8800::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:8800::
+3462,HiNet,2001:b031:a400::/38,ipv6,2001:b031:a600::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:a600::
+3462,HiNet,2001:b031:a800::/38,ipv6,2001:b031:aa00::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:aa00::
+3462,HiNet,2001:b031:b000::/38,ipv6,2001:b031:b200::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:b200::
+3462,HiNet,2001:b031:b800::/38,ipv6,2001:b031:ba00::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:ba00::
+3462,HiNet,2001:b031:bc00::/38,ipv6,2001:b031:be00::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:be00::
+3462,HiNet,2001:b031:c000::/37,ipv6,2001:b031:c400::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:c400::
+3462,HiNet,2001:b031:d000::/38,ipv6,2001:b031:d200::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:d200::
+3462,HiNet,2001:b031:d800::/38,ipv6,2001:b031:da00::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:da00::
+3462,HiNet,2001:b031:f200::/39,ipv6,2001:b031:f300::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:f300::
+3462,HiNet,2001:b031:fa00::/39,ipv6,2001:b031:fb00::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:fb00::
+3462,HiNet,2001:b031:fc00::/39,ipv6,2001:b031:fd00::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:fd00::
+3462,HiNet,2001:b031:fe00::/39,ipv6,2001:b031:ff00::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b031:ff00::
+3462,HiNet,2001:b032::/37,ipv6,2001:b032:400::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b032:400::
+3462,HiNet,2001:b032:2000::/36,ipv6,2001:b032:2800::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b032:2800::
+3462,HiNet,2001:b032:3000::/37,ipv6,2001:b032:3400::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b032:3400::
+3462,HiNet,2001:b032:3800::/37,ipv6,2001:b032:3c00::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b032:3c00::
+3462,HiNet,2001:b032:5c00::/38,ipv6,2001:b032:5e00::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b032:5e00::
+3462,HiNet,2001:b032:7000::/37,ipv6,2001:b032:7400::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b032:7400::
+3462,HiNet,2001:b032:8000::/36,ipv6,2001:b032:8800::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b032:8800::
+3462,HiNet,2001:b032:a400::/38,ipv6,2001:b032:a600::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b032:a600::
+3462,HiNet,2001:b032:c000::/37,ipv6,2001:b032:c400::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b032:c400::
+3462,HiNet,2001:b040::/26,ipv6,2001:b060::,success,,Taiwan,Taiwan,Taipei,25.0334,121.566,Hinet Twnic,AS3462 Data Communication Business Group,2001:b060::
+3462,HiNet,2406:300::/32,ipv6,2406:300:8000::,success,,Taiwan,Taiwan,Taipei,25.033,121.565,Far Eastern International Bank,AS3462 Data Communication Business Group,2406:300:8000::
+3462,HiNet,2407:4700::/32,ipv6,2407:4700:8000::,success,,Taiwan,Taiwan,Taipei,25.0186,121.558,LANDBANK,AS3462 Data Communication Business Group,2407:4700:8000::
+3462,HiNet,2602:ffe4:c04::/48,ipv6,2602:ffe4:c04:8000::,success,,Taiwan,Kaohsiung,Kaohsiung,22.6148,120.3139,"Chunghwa Telecom Co., Ltd.",AS3462 Data Communication Business Group,2602:ffe4:c04:8000::

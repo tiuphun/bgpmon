@@ -1,0 +1,13 @@
+asn,name,prefix,family,center_ip,geo_status,geo_message,country,region,city,lat,lon,isp,as,query
+7539,TWAREN,103.124.72.0/22,ipv4,103.124.74.0,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,National Center for High-performance Computing,AS7539 National Center for High-performance Computing,103.124.74.0
+7539,TWAREN,103.160.220.0/24,ipv4,103.160.220.128,success,,Taiwan,Taiwan,Hsinchu,24.7825,120.996,National Center for High-performance Computing,AS7539 National Center for High-performance Computing,103.160.220.128
+7539,TWAREN,103.160.220.0/23,ipv4,103.160.221.0,success,,Taiwan,Taiwan,Hsinchu,24.7825,120.996,National Center for High-performance Computing,AS7539 National Center for High-performance Computing,103.160.221.0
+7539,TWAREN,140.110.0.0/16,ipv4,140.110.128.0,success,,Taiwan,Hsinchu City,Hsinchu,24.8065,120.9706,National Center for High-performance Computing,AS7539 National Center for High-performance Computing,140.110.128.0
+7539,TWAREN,140.110.200.0/21,ipv4,140.110.204.0,success,,Taiwan,Hsinchu City,Hsinchu,24.8065,120.9706,National Center for High-performance Computing,AS7539 National Center for High-performance Computing,140.110.204.0
+7539,TWAREN,140.110.215.0/24,ipv4,140.110.215.128,success,,Taiwan,Hsinchu City,Hsinchu,24.8065,120.9706,National Center for High-performance Computing,AS7539 National Center for High-performance Computing,140.110.215.128
+7539,TWAREN,203.145.200.0/21,ipv4,203.145.204.0,success,,Taiwan,Taiwan,Yilan,24.7462,121.748,National Ilan University,AS7539 National Center for High-performance Computing,203.145.204.0
+7539,TWAREN,203.145.208.0/20,ipv4,203.145.216.0,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,National Center for High-performance Computing,AS7539 National Center for High-performance Computing,203.145.216.0
+7539,TWAREN,211.73.64.0/19,ipv4,211.73.80.0,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,National Center for High-performance Computing,AS7539 National Center for High-performance Computing,211.73.80.0
+7539,TWAREN,211.73.72.0/24,ipv4,211.73.72.128,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,National Center for High-performance Computing,AS7539 National Center for High-performance Computing,211.73.72.128
+7539,TWAREN,211.79.48.0/20,ipv4,211.79.56.0,success,,Taiwan,Taiwan,Taipei,25.0501,121.565,TANET2,AS7539 National Center for High-performance Computing,211.79.56.0
+7539,TWAREN,2001:e10::/32,ipv6,2001:e10:8000::,success,,Taiwan,Taiwan,Hsinchu,24.7825,120.996,TWARENV6-TWNIC,AS7539 National Center for High-performance Computing,2001:e10:8000::
