@@ -1,0 +1,30 @@
+> /Users/tieuphuong/Downloads/bgpmon/.venv/bin/python /Users/tieuphuong/Downloads/bgpmon/scripts/prioritized_targets.py
+[*] Fetching prefixes from BGPView for configured ASNs...
+    AS3462 (HiNet): 219 prefixes
+    AS4780 (SEEDNet): 1071 prefixes
+    AS1659 (TANet): 228 prefixes
+    AS7539 (TWAREN): 11 prefixes
+[*] Generated 4592 /24 candidates (after sampling).
+[*] Wrote full scored list to prioritized_targets.csv
+[*] Wrote top 150 targets to targets.txt
+[*] Summary (top items):
+  192.72.125.1 (AS4780 SEEDNet) score=150.0 reason=base_prflen=24;ptr;ptr_service ptr=dns.speedfam.com.tw ping=False
+  203.67.58.1 (AS4780 SEEDNet) score=150.0 reason=base_prflen=24;ptr;ptr_service ptr=ns.jftpe.com.tw ping=False
+  203.67.170.1 (AS4780 SEEDNet) score=150.0 reason=base_prflen=24;ptr;ptr_service ptr=ns2.compal.com ping=False
+  203.73.83.1 (AS4780 SEEDNet) score=150.0 reason=base_prflen=24;ptr;ptr_service ptr=dns.pmc.org.tw ping=False
+  210.66.177.1 (AS4780 SEEDNet) score=150.0 reason=base_prflen=24;ptr;ptr_service ptr=dns1.tolya.com.tw ping=False
+  163.15.180.1 (AS1659 TANet) score=150.0 reason=base_prflen=24;ptr;ptr_service ptr=mail.kmhk.org.tw ping=False
+  192.192.22.1 (AS1659 TANet) score=150.0 reason=base_prflen=24;ptr;ptr_service ptr=dns.nari.org.tw ping=False
+  203.64.238.1 (AS1659 TANet) score=150.0 reason=base_prflen=24;ptr;ptr_service ptr=dns.kh.usc.edu.tw ping=False
+  210.60.183.1 (AS1659 TANet) score=150.0 reason=base_prflen=24;ptr;ptr_service ptr=www.eec.isu.edu.tw ping=False
+  120.118.118.1 (AS1659 TANet) score=145.83 reason=base_prflen=23;ptr;ptr_service ptr=ns1.nptu.edu.tw ping=False
+  203.68.94.1 (AS1659 TANet) score=145.83 reason=base_prflen=23;ptr;ptr_service ptr=dns01p.vghks.gov.tw ping=False
+  210.240.202.1 (AS1659 TANet) score=145.83 reason=base_prflen=23;ptr;ptr_service ptr=lib-gw.nhu.edu.tw ping=False
+  140.128.7.1 (AS1659 TANet) score=141.67 reason=base_prflen=22;ptr;ptr_service ptr=dns.lib.pu.edu.tw ping=False
+  140.131.7.1 (AS1659 TANet) score=141.67 reason=base_prflen=22;ptr;ptr_service ptr=www.im.lhu.edu.tw ping=False
+  192.192.249.1 (AS1659 TANet) score=141.67 reason=base_prflen=22;ptr;ptr_service ptr=dns.knu.edu.tw ping=False
+  192.192.250.1 (AS1659 TANet) score=141.67 reason=base_prflen=22;ptr;ptr_service ptr=www.ec.knu.edu.tw ping=False
+  210.60.184.1 (AS1659 TANet) score=141.67 reason=base_prflen=22;ptr;ptr_service ptr=www.cna.isu.edu.tw ping=False
+  210.240.232.1 (AS1659 TANet) score=137.5 reason=base_prflen=21;ptr;ptr_service ptr=dns.mcut.edu.tw ping=False
+  140.110.202.1 (AS7539 TWAREN) score=137.5 reason=base_prflen=21;ptr;ptr_service ptr=ilc01.icg.nsrrc.org.tw ping=False
+  140.110.203.1 (AS7539 TWAREN) score=137.5 reason=base_prflen=21;ptr;ptr_service ptr=efd.nsrrc.org.tw ping=False
