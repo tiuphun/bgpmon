@@ -29,10 +29,11 @@ from pathlib import Path
 
 # ---------- Config ----------
 ASNS = {
-    3462: "HiNet",
-    4780: "SEEDNet",
-    1659: "TANet",
-    7539: "TWAREN"
+    # 3462: "HiNet",
+    # 4780: "SEEDNet",
+    # 1659: "TANet",
+    # 7539: "TWAREN",
+    9924: "TFN"
 }
 BGPVIEW_URL = "https://api.bgpview.io/asn/{asn}/prefixes"
 PTR_CACHE_FILE = "ptr_cache.json"

@@ -6,7 +6,8 @@ ASNS = {
     3462: "HiNet",
     4780: "SEEDNet",
     1659: "TANet",
-    7539: "TWAREN"
+    7539: "TWAREN",
+    9924: "TFN"
 }
 
 API_URL = "https://api.bgpview.io/asn/{asn}/prefixes"

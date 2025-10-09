@@ -1,0 +1,4490 @@
+{
+  "2.18.17.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.033,
+    "lon": 121.565
+  },
+  "2.21.18.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.033,
+    "lon": 121.565
+  },
+  "23.202.126.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.033,
+    "lon": 121.565
+  },
+  "23.212.60.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.033,
+    "lon": 121.565
+  },
+  "43.240.26.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "49.214.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "49.215.0.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taichung City",
+    "city": "Taichung",
+    "lat": 24.144,
+    "lon": 120.6844
+  },
+  "49.215.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taichung City",
+    "city": "Taichung",
+    "lat": 24.144,
+    "lon": 120.6844
+  },
+  "49.218.0.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "New Taipei City",
+    "city": "New Taipei City",
+    "lat": 25.0693,
+    "lon": 121.4626
+  },
+  "49.216.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "New Taipei City",
+    "city": "New Taipei City",
+    "lat": 25.0693,
+    "lon": 121.4626
+  },
+  "49.217.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taichung City",
+    "city": "Taichung",
+    "lat": 24.144,
+    "lon": 120.6844
+  },
+  "49.218.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "New Taipei City",
+    "city": "New Taipei City",
+    "lat": 25.0693,
+    "lon": 121.4626
+  },
+  "49.219.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "60.198.64.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taichung City",
+    "city": "Taichung",
+    "lat": 24.144,
+    "lon": 120.6844
+  },
+  "60.198.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Nantou",
+    "city": "Caotun",
+    "lat": 23.9812,
+    "lon": 120.689
+  },
+  "60.198.31.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.198.96.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taichung City",
+    "city": "Taichung",
+    "lat": 24.144,
+    "lon": 120.6844
+  },
+  "60.198.192.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.198.136.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Nantou",
+    "city": "Caotun",
+    "lat": 23.9812,
+    "lon": 120.689
+  },
+  "60.198.148.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Nantou",
+    "city": "Caotun",
+    "lat": 23.9812,
+    "lon": 120.689
+  },
+  "60.198.176.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Changhua",
+    "city": "Chang-hua",
+    "lat": 24.0761,
+    "lon": 120.5648
+  },
+  "60.198.248.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.0.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.32.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.1.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.2.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.3.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.4.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.5.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.6.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.7.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.8.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.9.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.10.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.11.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.12.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.13.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.14.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.15.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.16.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.17.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.18.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.19.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.20.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.21.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.22.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.23.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.24.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.25.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.26.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.27.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.29.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.30.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.31.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.45.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.46.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.47.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.52.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.49.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.80.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0501,
+    "lon": 121.565
+  },
+  "60.199.104.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.104.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.105.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.106.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.107.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.108.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.109.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.110.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.111.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.120.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.117.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.118.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.119.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.121.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.192.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.160.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.128.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.129.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.129.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.130.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.131.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.132.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.133.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.134.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.135.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.136.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.137.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.138.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.139.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.140.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.141.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.141.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.143.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.142.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.143.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.144.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.145.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.147.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.149.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.149.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.151.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.150.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.151.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.152.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.153.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.154.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.155.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.156.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.157.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.158.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.159.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.176.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.161.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.161.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.162.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.163.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.164.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.165.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.167.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.166.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.167.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.168.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.169.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.170.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.171.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.172.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.173.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.174.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.176.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.178.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.179.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.179.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.180.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.183.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.184.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.185.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.186.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.188.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.190.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.191.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.224.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.193.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.192.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.193.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.194.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.195.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.196.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.197.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.197.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.198.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.199.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.200.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.201.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.202.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.203.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.205.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.205.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.206.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.207.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.208.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.209.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.211.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.212.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.213.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.215.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.214.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.216.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.217.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.218.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.219.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.220.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.221.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.222.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.223.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.224.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.226.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.228.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.229.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.230.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.231.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.233.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.232.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.234.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.235.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.236.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.239.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.240.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.241.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.242.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.243.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.244.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.245.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.246.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.247.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.249.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.250.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.251.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.252.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "60.199.254.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "61.30.4.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.32.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.9.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.19.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.35.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.38.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.68.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.96.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.74.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.77.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.115.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.117.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.132.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.138.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.156.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.180.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.185.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.191.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.224.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.203.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.206.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.236.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.232.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.233.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.234.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.235.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.236.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.237.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.238.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.30.239.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "61.31.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Hsinchu County",
+    "city": "Hsinchu County",
+    "lat": 24.673,
+    "lon": 121.1614
+  },
+  "61.31.25.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.27.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.28.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.36.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.51.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.112.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.144.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Hsinchu County",
+    "city": "Hsinchu County",
+    "lat": 24.673,
+    "lon": 121.1614
+  },
+  "61.31.176.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Hsinchu County",
+    "city": "Hsinchu County",
+    "lat": 24.673,
+    "lon": 121.1614
+  },
+  "61.31.192.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.208.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.193.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.194.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.195.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.196.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.197.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.198.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.199.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.201.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.202.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.200.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.201.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.202.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.203.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.204.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.205.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.206.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.207.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.209.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.213.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.221.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.224.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.232.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.225.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.226.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.227.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.228.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.229.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.230.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.231.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.232.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.234.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.235.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.236.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.237.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.238.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.31.239.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Songshan",
+    "lat": 25.05,
+    "lon": 121.55
+  },
+  "61.57.16.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "61.60.244.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taichung City",
+    "city": "Taichung",
+    "lat": 24.144,
+    "lon": 120.6844
+  },
+  "61.60.248.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taichung City",
+    "city": "Taichung",
+    "lat": 24.144,
+    "lon": 120.6844
+  },
+  "61.60.252.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taichung City",
+    "city": "Taichung",
+    "lat": 24.144,
+    "lon": 120.6844
+  },
+  "103.23.110.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.033,
+    "lon": 121.565
+  },
+  "103.123.189.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei",
+    "city": "Tuniugou",
+    "lat": 24.9493,
+    "lon": 121.337
+  },
+  "103.123.190.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei",
+    "city": "Yingge District",
+    "lat": 24.9493,
+    "lon": 121.337
+  },
+  "103.123.190.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei",
+    "city": "Yingge District",
+    "lat": 24.9493,
+    "lon": 121.337
+  },
+  "103.123.191.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei",
+    "city": "Yingge District",
+    "lat": 24.9493,
+    "lon": 121.337
+  },
+  "103.129.178.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "103.129.176.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "103.129.178.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "103.224.134.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.033,
+    "lon": 121.565
+  },
+  "103.224.135.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.033,
+    "lon": 121.565
+  },
+  "124.8.64.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Chiayi",
+    "city": "Chiayi City",
+    "lat": 23.4815,
+    "lon": 120.4498
+  },
+  "124.8.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Chiayi",
+    "city": "Chiayi City",
+    "lat": 23.4815,
+    "lon": 120.4498
+  },
+  "124.10.0.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "124.8.192.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Chiayi",
+    "city": "Chiayi City",
+    "lat": 23.4815,
+    "lon": 120.4498
+  },
+  "124.9.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.9.64.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Changhua",
+    "city": "Chang-hua",
+    "lat": 24.0761,
+    "lon": 120.5648
+  },
+  "124.9.40.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Changhua",
+    "city": "Chang-hua",
+    "lat": 24.0761,
+    "lon": 120.5648
+  },
+  "124.9.60.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Changhua",
+    "city": "Chang-hua",
+    "lat": 24.0761,
+    "lon": 120.5648
+  },
+  "124.9.57.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Changhua",
+    "city": "Chang-hua",
+    "lat": 24.0761,
+    "lon": 120.5648
+  },
+  "124.9.61.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Changhua",
+    "city": "Chang-hua",
+    "lat": 24.0761,
+    "lon": 120.5648
+  },
+  "124.9.61.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Changhua",
+    "city": "Chang-hua",
+    "lat": 24.0761,
+    "lon": 120.5648
+  },
+  "124.9.62.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Changhua",
+    "city": "Chang-hua",
+    "lat": 24.0761,
+    "lon": 120.5648
+  },
+  "124.9.63.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Changhua",
+    "city": "Chang-hua",
+    "lat": 24.0761,
+    "lon": 120.5648
+  },
+  "124.9.72.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Changhua",
+    "city": "Chang-hua",
+    "lat": 24.0761,
+    "lon": 120.5648
+  },
+  "124.9.80.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Changhua",
+    "city": "Chang-hua",
+    "lat": 24.0761,
+    "lon": 120.5648
+  },
+  "124.9.88.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Changhua",
+    "city": "Chang-hua",
+    "lat": 24.0761,
+    "lon": 120.5648
+  },
+  "124.9.112.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Changhua",
+    "city": "Yuanlin",
+    "lat": 23.9579,
+    "lon": 120.5747
+  },
+  "124.9.192.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.10.64.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "124.10.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "124.10.192.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "124.11.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.11.64.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei",
+    "city": "Banqiao",
+    "lat": 25.0143,
+    "lon": 121.467
+  },
+  "124.11.192.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "124.12.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.12.64.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.12.192.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0265,
+    "lon": 121.555
+  },
+  "124.108.144.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.108.129.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.108.128.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.108.129.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.108.132.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.108.133.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.108.134.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.108.135.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.108.141.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0265,
+    "lon": 121.555
+  },
+  "124.108.142.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.108.152.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0265,
+    "lon": 121.555
+  },
+  "124.108.146.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.108.147.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.108.168.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.108.176.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0262,
+    "lon": 121.554
+  },
+  "124.108.168.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.108.169.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.108.170.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.108.171.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "124.108.177.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0262,
+    "lon": 121.554
+  },
+  "124.108.184.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0262,
+    "lon": 121.554
+  },
+  "175.98.0.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Kaohsiung",
+    "city": "Kaohsiung",
+    "lat": 22.6148,
+    "lon": 120.3139
+  },
+  "175.96.64.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Poxin",
+    "lat": 25.0265,
+    "lon": 121.555
+  },
+  "175.96.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "175.96.192.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Poxin",
+    "lat": 25.0265,
+    "lon": 121.555
+  },
+  "175.97.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.97.64.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "175.97.192.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "175.98.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "175.98.64.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Kaohsiung",
+    "city": "Kaohsiung",
+    "lat": 22.6148,
+    "lon": 120.3139
+  },
+  "175.98.32.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Kaohsiung",
+    "city": "Kaohsiung",
+    "lat": 22.6148,
+    "lon": 120.3139
+  },
+  "175.98.80.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Kaohsiung",
+    "city": "Kaohsiung",
+    "lat": 22.6148,
+    "lon": 120.3139
+  },
+  "175.98.100.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.98.192.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "175.98.186.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.128.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "175.99.32.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei City",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.64.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.96.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.65.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.67.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.66.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.67.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.68.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.69.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.70.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.71.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.72.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.73.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.74.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.75.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.76.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.77.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.78.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.79.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.80.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.81.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.82.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.83.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.84.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.85.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.86.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.87.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.88.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.89.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.90.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.91.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.92.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.93.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.95.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.95.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.114.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.120.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.123.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.126.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "175.99.160.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "175.99.224.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0265,
+    "lon": 121.555
+  },
+  "180.92.8.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Puzi",
+    "lat": 23.4518,
+    "lon": 120.255
+  },
+  "180.92.4.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "180.92.12.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "202.132.16.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "202.132.48.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "202.132.80.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "202.132.112.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "202.132.144.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "202.132.176.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "202.132.208.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "202.132.240.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "202.145.48.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "202.145.96.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "202.145.192.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "202.145.199.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "203.65.176.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0794,
+    "lon": 121.594
+  },
+  "203.65.172.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "203.65.174.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "203.65.200.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "203.65.216.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "203.65.231.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "203.65.232.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "203.77.37.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0262,
+    "lon": 121.543
+  },
+  "203.77.70.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "203.105.240.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0501,
+    "lon": 121.565
+  },
+  "203.211.16.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "203.211.2.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "203.211.4.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "203.211.5.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "203.211.7.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "203.211.9.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.2.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.64.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.4.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.5.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.6.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.7.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.8.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.11.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.12.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.13.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.14.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.15.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.16.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.17.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.18.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.19.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.20.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.21.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.22.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.23.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.24.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.28.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.31.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.35.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.39.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.38.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.39.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.44.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.53.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.55.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.57.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.63.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.68.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.72.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.75.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.88.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.84.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.85.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.92.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.96.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.98.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.100.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.101.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.101.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.102.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.103.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.108.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.17.120.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.62.48.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "210.62.208.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.033,
+    "lon": 121.565
+  },
+  "210.63.144.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0532,
+    "lon": 121.59
+  },
+  "210.63.152.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "210.63.176.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "210.67.152.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "210.67.176.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "210.67.208.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0936,
+    "lon": 121.594
+  },
+  "210.192.16.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.192.32.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.192.48.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.192.192.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.192.144.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.192.176.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.192.208.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.192.240.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "210.208.112.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taoyuan",
+    "city": "Zhongli District",
+    "lat": 24.9604,
+    "lon": 121.2392
+  },
+  "210.208.224.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei",
+    "city": "New Taipei City",
+    "lat": 25.062,
+    "lon": 121.457
+  },
+  "210.243.80.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0501,
+    "lon": 121.565
+  },
+  "210.243.112.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0501,
+    "lon": 121.565
+  },
+  "211.78.208.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "211.78.216.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "211.78.210.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "211.78.211.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "211.78.213.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "211.78.213.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "211.78.214.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "211.78.216.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "211.78.217.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "211.78.218.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "211.78.219.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "211.78.222.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "211.79.16.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0689,
+    "lon": 121.591
+  },
+  "219.81.0.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "219.80.16.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taoyuan",
+    "city": "Taoyuan District",
+    "lat": 24.9889,
+    "lon": 121.3176
+  },
+  "219.80.64.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taoyuan",
+    "city": "Taoyuan District",
+    "lat": 24.9889,
+    "lon": 121.3176
+  },
+  "219.80.36.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taoyuan",
+    "city": "Taoyuan District",
+    "lat": 24.9889,
+    "lon": 121.3176
+  },
+  "219.80.33.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taoyuan",
+    "city": "Taoyuan District",
+    "lat": 24.9889,
+    "lon": 121.3176
+  },
+  "219.80.104.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taoyuan",
+    "city": "Taoyuan District",
+    "lat": 24.9889,
+    "lon": 121.3176
+  },
+  "219.80.144.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taoyuan",
+    "city": "Taoyuan District",
+    "lat": 24.9889,
+    "lon": 121.3176
+  },
+  "219.80.176.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taoyuan",
+    "city": "Taoyuan District",
+    "lat": 24.9889,
+    "lon": 121.3176
+  },
+  "219.80.224.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taoyuan",
+    "city": "Taoyuan District",
+    "lat": 24.9889,
+    "lon": 121.3176
+  },
+  "219.80.208.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taoyuan",
+    "city": "Taoyuan District",
+    "lat": 24.9889,
+    "lon": 121.3176
+  },
+  "219.80.216.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taoyuan",
+    "city": "Taoyuan District",
+    "lat": 24.9889,
+    "lon": 121.3176
+  },
+  "219.80.240.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taoyuan",
+    "city": "Taoyuan District",
+    "lat": 24.9889,
+    "lon": 121.3176
+  },
+  "219.80.252.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taoyuan",
+    "city": "Taoyuan District",
+    "lat": 24.9889,
+    "lon": 121.3176
+  },
+  "219.81.72.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei",
+    "city": "Yingge District",
+    "lat": 24.9493,
+    "lon": 121.337
+  },
+  "219.81.96.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei",
+    "city": "Yingge District",
+    "lat": 24.9493,
+    "lon": 121.337
+  },
+  "219.81.76.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei",
+    "city": "Yingge District",
+    "lat": 24.9493,
+    "lon": 121.337
+  },
+  "219.81.84.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei",
+    "city": "Yingge District",
+    "lat": 24.9493,
+    "lon": 121.337
+  },
+  "219.81.90.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei",
+    "city": "Yingge District",
+    "lat": 24.9493,
+    "lon": 121.337
+  },
+  "219.81.89.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei",
+    "city": "Yingge District",
+    "lat": 24.9493,
+    "lon": 121.337
+  },
+  "219.81.144.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "219.81.176.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "219.81.208.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "219.81.240.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0446,
+    "lon": 121.561
+  },
+  "219.87.0.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "219.86.64.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Nantou",
+    "city": "Nantou City",
+    "lat": 23.9082,
+    "lon": 120.6559
+  },
+  "219.86.84.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Nantou",
+    "city": "Nantou City",
+    "lat": 23.9082,
+    "lon": 120.6559
+  },
+  "219.86.89.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Nantou",
+    "city": "Nantou City",
+    "lat": 23.9082,
+    "lon": 120.6559
+  },
+  "219.86.104.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Nantou",
+    "city": "Nantou City",
+    "lat": 23.9082,
+    "lon": 120.6559
+  },
+  "219.86.192.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Nantou",
+    "city": "Nantou City",
+    "lat": 23.9082,
+    "lon": 120.6559
+  },
+  "219.86.143.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Nantou",
+    "city": "Nantou City",
+    "lat": 23.9082,
+    "lon": 120.6559
+  },
+  "219.86.255.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Nantou",
+    "city": "Nantou City",
+    "lat": 23.9082,
+    "lon": 120.6559
+  },
+  "219.87.64.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "219.87.5.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "219.87.23.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "219.87.82.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei City",
+    "city": "Taipei",
+    "lat": 25.053,
+    "lon": 121.5259
+  },
+  "219.87.192.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Hsinchu City",
+    "city": "Hsinchu",
+    "lat": 24.8065,
+    "lon": 120.9706
+  },
+  "219.87.160.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Hsinchu City",
+    "city": "Hsinchu",
+    "lat": 24.8065,
+    "lon": 120.9706
+  },
+  "219.87.132.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Hsinchu City",
+    "city": "Hsinchu",
+    "lat": 24.8065,
+    "lon": 120.9706
+  },
+  "219.87.147.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Hsinchu City",
+    "city": "Hsinchu",
+    "lat": 24.8065,
+    "lon": 120.9706
+  },
+  "219.87.152.128": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Hsinchu City",
+    "city": "Hsinchu",
+    "lat": 24.8065,
+    "lon": 120.9706
+  },
+  "219.87.224.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Hsinchu City",
+    "city": "Hsinchu",
+    "lat": 24.8065,
+    "lon": 120.9706
+  },
+  "219.87.252.0": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Hsinchu City",
+    "city": "Hsinchu",
+    "lat": 24.8065,
+    "lon": 120.9706
+  },
+  "2001:c50:8000::": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.033,
+    "lon": 121.565
+  },
+  "2001:4550::": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Xiatayou",
+    "lat": 25.0788,
+    "lon": 121.569
+  },
+  "2001:4541:9800::": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Kanzijiao",
+    "lat": 25.0936,
+    "lon": 121.594
+  },
+  "2001:4546:1001:8000::": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Kanzijiao",
+    "lat": 25.0936,
+    "lon": 121.594
+  },
+  "2001:4546:1002:8000::": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Xiatayou",
+    "lat": 25.0788,
+    "lon": 121.569
+  },
+  "2001:454c:8000::": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0936,
+    "lon": 121.594
+  },
+  "2001:454e:8000::": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0936,
+    "lon": 121.594
+  },
+  "2001:454e:aab0:8000::": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0936,
+    "lon": 121.594
+  },
+  "2001:454e:c010:8000::": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Neihu District",
+    "lat": 25.0936,
+    "lon": 121.594
+  },
+  "2402:7500:8000::": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taiwan",
+    "city": "Taipei",
+    "lat": 25.0237,
+    "lon": 121.552
+  },
+  "2403:82c0:8000::": {
+    "status": "success",
+    "country": "Taiwan",
+    "regionName": "Taipei",
+    "city": "Tuniugou",
+    "lat": 24.9493,
+    "lon": 121.337
+  }
+}

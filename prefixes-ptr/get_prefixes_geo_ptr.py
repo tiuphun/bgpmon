@@ -8,10 +8,11 @@ from pathlib import Path
 
 # === Configuration ===
 ASNS = {
-    3462: "HiNet",
-    4780: "SEEDNet",
-    1659: "TANet",
-    7539: "TWAREN"
+    # 3462: "HiNet",
+    # 4780: "SEEDNet",
+    # 1659: "TANet",
+    # 7539: "TWAREN",
+    9924: "TFN"
 }
 CACHE_FILE = "ip_geo_cache.json"
 PTR_CACHE_FILE = "ip_ptr_cache.json"
