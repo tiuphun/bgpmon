@@ -1,2 +1,3 @@
 *.bz2 filter=lfs diff=lfs merge=lfs -text
+route-views-analysis/1-all_taiwan_aspaths.txt filter=lfs diff=lfs merge=lfs -text
 route-views-analysis/*.txt filter=lfs diff=lfs merge=lfs -text
