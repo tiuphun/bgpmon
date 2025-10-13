@@ -1,0 +1,3 @@
+# Priority Traceroute Targets - Taiwan Core/Border Routers
+# Sorted by: 1) Number of ASNs using this next-hop, 2) Frequency
+

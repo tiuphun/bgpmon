@@ -1,0 +1,4 @@
+# Priority Traceroute Targets - All Taiwan ASNs
+# BGP next-hop IPs (border/edge routers) sorted by frequency
+# High frequency = used by many prefixes = likely core router
+

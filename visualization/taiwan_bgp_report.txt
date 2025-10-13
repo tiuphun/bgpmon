@@ -1,0 +1,264 @@
+================================================================================
+Taiwan Internet Topology Analysis Report
+================================================================================
+
+Total AS paths analyzed: 1378592
+Unique ASNs observed: 338
+AS relationships mapped: 946
+
+--------------------------------------------------------------------------------
+Top 30 Most Frequent ASNs (Potential Backbone/Transit Providers)
+--------------------------------------------------------------------------------
+AS4780     SeedNet                        Count: 1836444 [TAIWAN]
+AS9924     Taiwan Fixed Network           Count: 1029411 [TAIWAN]
+AS3491                                    Count: 302384 [TIER-1]
+AS17709                                   Count: 271098
+AS9002                                    Count: 261184
+AS6453                                    Count: 253078 [TIER-1]
+AS9919                                    Count: 219811
+AS24158                                   Count: 217673
+AS2914                                    Count: 197260 [TIER-1]
+AS9505                                    Count: 167884
+AS3462     HiNet (Chunghwa)               Count: 136193 [TAIWAN]
+AS3356                                    Count: 104439 [TIER-1]
+AS131596                                  Count:  98037
+AS9680                                    Count:  91809
+AS38841                                   Count:  90919
+AS1299                                    Count:  90141 [TIER-1]
+AS6939                                    Count:  75864
+AS199524                                  Count:  73478
+AS16552                                   Count:  66581
+AS24154                                   Count:  66510
+AS58453                                   Count:  63884
+AS174                                     Count:  63216 [TIER-1]
+AS24157                                   Count:  61770
+AS24164                                   Count:  58671
+AS58511                                   Count:  56990
+AS137409                                  Count:  56585
+AS4826                                    Count:  54952
+AS7713                                    Count:  53255
+AS49544                                   Count:  52911
+AS398465                                  Count:  52759
+
+================================================================================
+Taiwan ASN Detailed Connectivity Analysis
+================================================================================
+
+
+================================================================================
+AS3462 - HiNet (Chunghwa)
+================================================================================
+Appearances in paths: 136193
+
+Top Upstream/Transit Providers (Total: 68):
+--------------------------------------------------
+  AS9680     - 137836 occurrences
+  AS17421    -  43740 occurrences
+  AS2914     -  21856 occurrences [TIER-1]
+  AS21859    -  16793 occurrences
+  AS17408    -  13187 occurrences
+  AS2497     -  12570 occurrences
+  AS3356     -  11928 occurrences [TIER-1]
+  AS7713     -   8912 occurrences
+  AS3491     -   7938 occurrences [TIER-1]
+  AS151326   -   7882 occurrences
+  AS20940    -   7097 occurrences
+  AS131628   -   6564 occurrences
+  AS134823   -   5552 occurrences
+  AS8220     -   5200 occurrences
+  AS6057     -   4720 occurrences
+  AS58511    -   4664 occurrences
+  AS7473     -   4562 occurrences
+  AS131584   -   4085 occurrences
+  AS49544    -   3908 occurrences
+  AS4782     -   3824 occurrences
+
+Top Downstream Customers/Peers (Total: 38):
+--------------------------------------------------
+  AS17421    -  41548 occurrences
+  AS21859    -  15123 occurrences
+  AS17408    -  12250 occurrences
+  AS20940    -   6743 occurrences
+  AS131628   -   5781 occurrences
+  AS134823   -   5437 occurrences
+  AS131584   -   3920 occurrences
+  AS4782     -   3632 occurrences
+  AS17710    -   2613 occurrences
+  AS10229    -   1994 occurrences
+  AS24506    -   1978 occurrences
+  AS18045    -   1931 occurrences
+  AS10310    -   1530 occurrences
+  AS4058     -   1370 occurrences
+  AS131588   -   1032 occurrences
+  AS54994    -   1004 occurrences
+  AS24429    -    963 occurrences
+  AS131655   -    664 occurrences
+  AS137280   -    655 occurrences
+  AS131587   -    615 occurrences
+
+================================================================================
+AS4780 - SeedNet
+================================================================================
+Appearances in paths: 1836444
+
+Top Upstream/Transit Providers (Total: 70):
+--------------------------------------------------
+  AS6453     - 479092 occurrences [TIER-1]
+  AS9002     - 350786 occurrences
+  AS17709    - 271107 occurrences
+  AS2914     - 233970 occurrences [TIER-1]
+  AS9919     - 219811 occurrences
+  AS9505     - 146800 occurrences
+  AS3491     - 136526 occurrences [TIER-1]
+  AS6939     -  56198 occurrences
+  AS18049    -  47593 occurrences
+  AS131602   -  41864 occurrences
+  AS49544    -  26806 occurrences
+  AS9674     -  24389 occurrences
+  AS7575     -  13240 occurrences
+  AS7713     -  12488 occurrences
+  AS131627   -   6270 occurrences
+  AS9922     -   5203 occurrences
+  AS18419    -   4517 occurrences
+  AS133747   -   4408 occurrences
+  AS17809    -   4067 occurrences
+  AS131634   -   3572 occurrences
+
+Top Downstream Customers/Peers (Total: 56):
+--------------------------------------------------
+  AS17709    - 175769 occurrences
+  AS9919     - 113111 occurrences
+  AS131602   -  33404 occurrences
+  AS18049    -  28011 occurrences
+  AS9674     -  19906 occurrences
+  AS131627   -   3540 occurrences
+  AS9922     -   3512 occurrences
+  AS133747   -   3295 occurrences
+  AS18419    -   2980 occurrences
+  AS18185    -   2334 occurrences
+  AS17809    -   2270 occurrences
+  AS9671     -   1582 occurrences
+  AS131634   -   1507 occurrences
+  AS4058     -   1372 occurrences
+  AS131626   -   1201 occurrences
+  AS38851    -   1085 occurrences
+  AS7535     -    973 occurrences
+  AS131677   -    872 occurrences
+  AS18422    -    744 occurrences
+  AS131273   -    740 occurrences
+
+================================================================================
+AS1659 - TANet
+================================================================================
+Appearances in paths: 1324
+
+Top Upstream/Transit Providers (Total: 2):
+--------------------------------------------------
+  AS17717    -    186 occurrences
+  AS17711    -     10 occurrences
+
+Top Downstream Customers/Peers (Total: 0):
+--------------------------------------------------
+
+================================================================================
+AS7539 - TWARENet
+================================================================================
+Appearances in paths: 2751
+
+Top Upstream/Transit Providers (Total: 25):
+--------------------------------------------------
+  AS9505     -   3010 occurrences
+  AS9264     -   1417 occurrences
+  AS18183    -    924 occurrences
+  AS293      -    264 occurrences
+  AS11537    -    238 occurrences
+  AS18426    -    224 occurrences
+  AS7575     -    196 occurrences
+  AS17717    -    176 occurrences
+  AS18181    -    164 occurrences
+  AS137409   -     96 occurrences
+  AS7713     -     64 occurrences
+  AS6939     -     48 occurrences
+  AS18422    -     35 occurrences
+  AS63927    -     32 occurrences
+  AS49544    -     32 occurrences
+  AS24482    -     32 occurrences
+  AS199524   -     32 occurrences
+  AS18106    -     32 occurrences
+  AS151326   -     32 occurrences
+  AS18047    -     20 occurrences
+
+Top Downstream Customers/Peers (Total: 13):
+--------------------------------------------------
+  AS18183    -    924 occurrences
+  AS18426    -    224 occurrences
+  AS17717    -    176 occurrences
+  AS18181    -    164 occurrences
+  AS18422    -     35 occurrences
+  AS9264     -     21 occurrences
+  AS18047    -     20 occurrences
+  AS17716    -     16 occurrences
+  AS17711    -     10 occurrences
+  AS4637     -     10 occurrences
+  AS9505     -     10 occurrences
+  AS18420    -      5 occurrences
+  AS38254    -      4 occurrences
+
+================================================================================
+AS9924 - Taiwan Fixed Network
+================================================================================
+Appearances in paths: 1029411
+
+Top Upstream/Transit Providers (Total: 83):
+--------------------------------------------------
+  AS3491     - 437602 occurrences [TIER-1]
+  AS24158    - 217673 occurrences
+  AS9505     - 185726 occurrences
+  AS9002     - 151840 occurrences
+  AS38841    -  90919 occurrences
+  AS2914     -  65564 occurrences [TIER-1]
+  AS24164    -  58671 occurrences
+  AS58453    -  42026 occurrences
+  AS6939     -  35324 occurrences
+  AS137409   -  25164 occurrences
+  AS24157    -  23191 occurrences
+  AS49544    -  19870 occurrences
+  AS174      -  17832 occurrences [TIER-1]
+  AS15412    -  13926 occurrences
+  AS24163    -  12355 occurrences
+  AS24165    -  11173 occurrences
+  AS18429    -  10817 occurrences
+  AS24482    -   7678 occurrences
+  AS2500     -   6716 occurrences
+  AS131602   -   6321 occurrences
+
+Top Downstream Customers/Peers (Total: 48):
+--------------------------------------------------
+  AS24158    - 132433 occurrences
+  AS38841    -  42073 occurrences
+  AS24164    -  33237 occurrences
+  AS24157    -  21651 occurrences
+  AS24165    -   7810 occurrences
+  AS24163    -   7390 occurrences
+  AS18429    -   7042 occurrences
+  AS131602   -   6321 occurrences
+  AS131634   -   4539 occurrences
+  AS131628   -   4189 occurrences
+  AS7533     -   3456 occurrences
+  AS18415    -   2101 occurrences
+  AS18049    -   1699 occurrences
+  AS135596   -   1647 occurrences
+  AS4783     -   1525 occurrences
+  AS31972    -   1510 occurrences
+  AS131635   -   1050 occurrences
+  AS4781     -   1048 occurrences
+  AS134094   -    983 occurrences
+  AS131148   -    871 occurrences
+
+================================================================================
+Inter-Taiwan ASN Relationships
+================================================================================
+
+AS7539 → AS1659: 1128 paths
+AS9924 → AS4780: 11 paths
+AS9924 → AS7539: 4 paths

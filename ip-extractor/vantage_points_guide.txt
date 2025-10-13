@@ -1,0 +1,104 @@
+
+================================================================================
+RECOMMENDED VANTAGE POINTS FOR TRACEROUTE MEASUREMENTS
+================================================================================
+
+Option 1: RIPE Atlas Platform (Recommended)
+---------------------------------------------
+- Global network of ~12,000 probes
+- Taiwan has ~50+ active probes
+- Free for research (credit system)
+- API access for automated measurements
+
+To use RIPE Atlas:
+1. Register at https://atlas.ripe.net
+2. Request measurement credits for research
+3. Select probes in/near Taiwan
+4. Run traceroute measurements to your target list
+
+Suggested probe selection:
+- Probes in Taiwan (country: TW)
+- Probes in nearby countries (JP, KR, HK, SG, CN)
+- Probes from major international locations (US, EU)
+
+Command example:
+  ripe-atlas measure traceroute --target <IP> --probes country:TW
+
+
+Option 2: PlanetLab (If you have academic access)
+--------------------------------------------------
+- Academic measurement platform
+- Nodes at universities worldwide
+- Need institutional sponsorship
+
+Taiwan nodes:
+- Check http://www.planet-lab.org for active nodes
+- Usually at NTU, NCTU, Academia Sinica
+
+
+Option 3: Cloud VPS Instances
+-------------------------------
+Deploy your own measurement nodes:
+
+Taiwan locations:
+- Hinet Data Center (Chunghwa Telecom)
+- Chief Telecom data centers
+- Google Cloud Taiwan (asia-east1)
+- AWS Asia Pacific (Tokyo/Singapore - closest to Taiwan)
+- Linode Tokyo
+- DigitalOcean Singapore
+
+International comparison points:
+- Tokyo, Japan
+- Hong Kong
+- Singapore
+- Los Angeles, USA
+- London, UK
+
+
+Option 4: Academic Network Access
+-----------------------------------
+If you're at a university:
+- Use TANet (AS1659) as internal vantage point
+- Request access to TWARENet (AS7539) nodes
+- Coordinate with network operations team
+
+
+Option 5: Looking Glass Servers
+---------------------------------
+Public looking glass servers from Taiwan ISPs:
+- Check for public looking glass services from HiNet, SeedNet
+- Limited but useful for quick checks
+- Usually web-based interface
+
+
+RECOMMENDED MEASUREMENT STRATEGY
+================================================================================
+
+Phase 1: Internal Taiwan Topology
+----------------------------------
+Vantage points: Within Taiwan (RIPE Atlas probes in TW, or cloud VPS)
+Targets: Your extracted next-hop IPs from all 5 Taiwan ASNs
+Purpose: Map internal Taiwan routing and peering
+
+Phase 2: International Connectivity
+------------------------------------
+Vantage points: Major international locations (JP, HK, SG, US, EU)
+Targets: Same Taiwan next-hop IPs
+Purpose: Understand how traffic enters/exits Taiwan
+
+Phase 3: Inter-ISP Paths
+-------------------------
+Vantage points: One ISP's network (e.g., HiNet customer)
+Targets: Other Taiwan ISPs' IPs
+Purpose: Map peering relationships and transit paths
+
+
+MEASUREMENT BEST PRACTICES
+================================================================================
+1. Rate limiting: Don't exceed 1 traceroute/second per target
+2. Time of day: Run measurements at different times (peak/off-peak)
+3. Protocol: Use both ICMP and UDP traceroutes
+4. Repetition: Run multiple measurements per target (5-10 times)
+5. Duration: Collect data over multiple days/weeks
+6. Ethics: Follow measurement ethics guidelines, respect rate limits

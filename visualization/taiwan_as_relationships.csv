@@ -1,0 +1,947 @@
+source_asn,source_name,target_asn,target_name,occurrences,source_is_taiwan,target_is_taiwan,source_is_tier1,target_is_tier1
+4780,SeedNet,4780,SeedNet,1107646,True,True,False,False
+9924,Taiwan Fixed Network,9924,Taiwan Fixed Network,506579,True,True,False,False
+4780,SeedNet,17709,,271089,True,False,False,False
+6453,,4780,SeedNet,239546,False,True,True,False
+4780,SeedNet,9919,,219811,True,False,False,False
+3491,,9924,Taiwan Fixed Network,218801,False,True,True,False
+9924,Taiwan Fixed Network,24158,,217673,True,False,False,False
+9002,,4780,SeedNet,175351,False,True,False,False
+2914,,4780,SeedNet,116985,False,True,True,False
+17709,,131596,,96093,False,False,False,False
+9505,,9924,Taiwan Fixed Network,92863,False,True,False,False
+9924,Taiwan Fixed Network,38841,,90919,True,False,False,False
+9002,,9924,Taiwan Fixed Network,75920,False,True,False,False
+9505,,4780,SeedNet,73400,False,True,False,False
+9680,,3462,HiNet (Chunghwa),68883,False,True,False,False
+3491,,4780,SeedNet,68228,False,True,True,False
+17709,,24154,,66510,False,False,False,False
+3356,,9002,,63182,False,False,True,False
+9924,Taiwan Fixed Network,24164,,58671,True,False,False,False
+17709,,131591,,52269,False,False,False,False
+4780,SeedNet,18049,,47593,True,False,False,False
+3462,HiNet (Chunghwa),17421,,43740,True,False,False,False
+58453,,58453,,42828,False,False,False,False
+4780,SeedNet,131602,,41864,True,False,False,False
+24157,,24157,,38579,False,False,False,False
+1299,,6453,,36860,False,False,True,True
+2914,,9924,Taiwan Fixed Network,32782,False,True,True,False
+16552,,2914,,32698,False,False,False,True
+4826,,3356,,30616,False,False,False,True
+2914,,3491,,28347,False,False,True,True
+6939,,4780,SeedNet,28099,False,True,False,False
+17350,,6453,,27718,False,False,False,True
+199524,,3491,,27014,False,False,False,True
+57695,,60068,,25710,False,False,False,False
+58511,,9002,,25478,False,False,False,False
+20253,,1299,,25041,False,False,False,True
+8220,,1299,,24853,False,False,False,True
+398465,,4826,,24766,False,False,False,False
+4780,SeedNet,9674,,24389,True,False,False,False
+174,,6453,,23626,False,False,True,True
+9924,Taiwan Fixed Network,24157,,23191,True,False,False,False
+9680,,9680,,22856,False,False,False,False
+11039,,4901,,22293,False,False,False,False
+4901,,11164,,22070,False,False,False,False
+1299,,3491,,21898,False,False,True,True
+41095,,3356,,21850,False,False,False,True
+8888,,137409,,21083,False,False,False,False
+58453,,9924,Taiwan Fixed Network,21013,False,True,False,False
+7474,,7473,,20362,False,False,False,False
+24516,,3491,,19813,False,False,False,True
+135895,,137409,,19507,False,False,False,False
+4635,,9002,,19362,False,False,False,False
+137409,,9002,,19348,False,False,False,False
+2497,,6453,,19341,False,False,False,True
+148968,,6939,,19205,False,False,False,False
+3257,,6453,,19158,False,False,True,True
+11164,,3491,,19026,False,False,False,True
+6939,,3491,,18569,False,False,False,True
+6079,,9002,,18428,False,False,False,False
+7500,,2497,,18366,False,False,False,False
+6939,,9924,Taiwan Fixed Network,17662,False,True,False,False
+132847,,7474,,17437,False,False,False,False
+19151,,9002,,16820,False,False,False,False
+3462,HiNet (Chunghwa),21859,,16793,True,False,False,False
+17660,,2914,,16225,False,False,False,True
+137409,,2914,,15801,False,False,False,True
+174,,3491,,15369,False,False,True,True
+9674,,9674,,15036,False,False,False,False
+131584,,131584,,14094,False,False,False,False
+398465,,2914,,13803,False,False,False,True
+293,,6453,,13774,False,False,False,True
+3257,,3491,,13648,False,False,True,True
+24516,,9505,,13593,False,False,False,False
+7713,,3356,,13512,False,False,False,True
+17350,,2914,,13419,False,False,False,True
+17408,,17408,,13418,False,False,False,False
+7594,,3356,,13403,False,False,False,True
+49544,,4780,SeedNet,13403,False,True,False,False
+1299,,9505,,13273,False,False,True,False
+3462,HiNet (Chunghwa),17408,,13187,True,False,False,False
+7713,,9002,,13152,False,False,False,False
+23673,,4635,,13040,False,False,False,False
+17709,,9311,,13033,False,False,False,False
+137409,,9924,Taiwan Fixed Network,12582,False,True,False,False
+49544,,3491,,12380,False,False,False,True
+9924,Taiwan Fixed Network,24163,,12355,True,False,False,False
+132337,,9002,,12275,False,False,False,False
+7594,,174,,12165,False,False,False,True
+8220,,6453,,12115,False,False,False,True
+3462,HiNet (Chunghwa),3462,HiNet (Chunghwa),11957,True,True,False,False
+199524,,137409,,11609,False,False,False,False
+17709,,24155,,11515,False,False,False,False
+199524,,174,,11420,False,False,False,True
+199524,,6453,,11237,False,False,False,True
+174,,9680,,11219,False,False,True,False
+9924,Taiwan Fixed Network,24165,,11173,True,False,False,False
+4713,,2914,,11114,False,False,False,True
+2914,,3462,HiNet (Chunghwa),10928,False,True,True,False
+9924,Taiwan Fixed Network,18429,,10817,True,False,False,False
+2500,,4713,,10626,False,False,False,False
+3320,,6453,,10553,False,False,True,True
+3356,,3491,,10496,False,False,True,True
+58511,,9505,,10363,False,False,False,False
+3356,,6453,,10230,False,False,True,True
+6057,,6461,,10115,False,False,False,True
+7473,,6453,,10097,False,False,False,True
+49544,,9002,,9951,False,False,False,False
+49544,,9924,Taiwan Fixed Network,9935,False,True,False,False
+17709,,7482,,9853,False,False,False,False
+17350,,3356,,9712,False,False,False,True
+6830,,6453,,9659,False,False,True,True
+151326,,6453,,9546,False,False,False,True
+8220,,3491,,9444,False,False,False,True
+6057,,2914,,9199,False,False,False,True
+24516,,174,,9135,False,False,False,True
+16552,,6453,,8942,False,False,False,True
+3320,,3491,,8936,False,False,True,True
+174,,9924,Taiwan Fixed Network,8916,False,True,True,False
+132337,,9505,,8827,False,False,False,False
+18106,,9505,,8769,False,False,False,False
+24482,,9505,,8456,False,False,False,False
+58952,,9505,,8329,False,False,False,False
+6830,,3491,,8166,False,False,True,True
+2497,,3491,,8162,False,False,False,True
+4826,,6939,,8155,False,False,False,False
+293,,3491,,8110,False,False,False,True
+24482,,9002,,8040,False,False,False,False
+7713,,9505,,7990,False,False,False,False
+137409,,9505,,7497,False,False,False,False
+6939,,9680,,7138,False,False,False,False
+17408,,131645,,7108,False,False,False,False
+3462,HiNet (Chunghwa),20940,,7097,True,False,False,False
+1221,,4637,,7026,False,False,False,False
+132847,,1221,,7020,False,False,False,False
+15412,,9924,Taiwan Fixed Network,6963,False,True,False,False
+1299,,9680,,6849,False,False,True,False
+4637,,3491,,6667,False,False,False,True
+60068,,2914,,6622,False,False,False,True
+7575,,4780,SeedNet,6620,False,True,False,False
+17660,,9505,,6594,False,False,False,False
+16552,,9505,,6594,False,False,False,False
+3462,HiNet (Chunghwa),131628,,6564,True,False,False,False
+151326,,9505,,6562,False,False,False,False
+9924,Taiwan Fixed Network,131602,,6321,True,False,False,False
+2497,,3462,HiNet (Chunghwa),6285,False,True,False,False
+4780,SeedNet,131627,,6270,True,False,False,False
+199524,,9505,,6250,False,False,False,False
+7713,,4780,SeedNet,6244,False,True,False,False
+63927,,1299,,6222,False,False,False,True
+1299,,1299,,6222,False,False,True,True
+3356,,3462,HiNet (Chunghwa),5964,False,True,True,False
+60068,,174,,5936,False,False,False,True
+18106,,4635,,5863,False,False,False,False
+2497,,2914,,5830,False,False,False,True
+38880,,1299,,5678,False,False,False,True
+6461,,6453,,5651,False,False,True,True
+3462,HiNet (Chunghwa),134823,,5552,True,False,False,False
+398465,,1299,,5522,False,False,False,True
+18106,,9002,,5409,False,False,False,False
+2500,,9002,,5339,False,False,False,False
+9924,Taiwan Fixed Network,131634,,5267,True,False,False,False
+4781,,4781,,5250,False,False,False,False
+19151,,2914,,5230,False,False,False,True
+151326,,174,,5226,False,False,False,True
+58511,,3491,,5206,False,False,False,True
+4780,SeedNet,9922,,5203,True,False,False,False
+16552,,3257,,5162,False,False,False,True
+20940,,16625,,5054,False,False,False,False
+24516,,9680,,4894,False,False,False,False
+7473,,3491,,4875,False,False,False,True
+56179,,56179,,4873,False,False,False,False
+6461,,3491,,4869,False,False,True,True
+60068,,6453,,4782,False,False,False,True
+21859,,135377,,4778,False,False,False,False
+16552,,4637,,4741,False,False,False,False
+38880,,2914,,4697,False,False,False,True
+38880,,9505,,4651,False,False,False,False
+6079,,9680,,4606,False,False,False,False
+7533,,9676,,4533,False,False,False,False
+3356,,9680,,4528,False,False,True,False
+16552,,3491,,4521,False,False,False,True
+4780,SeedNet,18419,,4517,True,False,False,False
+2516,,3491,,4514,False,False,False,True
+9002,,3356,,4485,False,False,False,True
+7713,,3462,HiNet (Chunghwa),4456,False,True,False,False
+4780,SeedNet,133747,,4408,True,False,False,False
+63927,,137409,,4343,False,False,False,False
+7713,,1299,,4317,False,False,False,True
+9002,,6453,,4255,False,False,False,True
+4826,,9680,,4246,False,False,False,False
+6453,,9002,,4207,False,False,True,False
+9924,Taiwan Fixed Network,131628,,4189,True,False,False,False
+9922,,9922,,4180,False,False,False,False
+4826,,9505,,4166,False,False,False,False
+6453,,3491,,4124,False,False,True,True
+7500,,2516,,4112,False,False,False,False
+6079,,3356,,4099,False,False,False,True
+3462,HiNet (Chunghwa),131584,,4085,True,False,False,False
+60068,,9505,,4071,False,False,False,False
+4780,SeedNet,17809,,4067,True,False,False,False
+3491,,3462,HiNet (Chunghwa),3969,False,True,True,False
+151326,,3462,HiNet (Chunghwa),3941,False,True,False,False
+3491,,6453,,3908,False,False,True,True
+2914,,174,,3869,False,False,True,True
+9924,Taiwan Fixed Network,7533,,3841,True,False,False,False
+24482,,9924,Taiwan Fixed Network,3839,False,True,False,False
+3462,HiNet (Chunghwa),4782,,3824,True,False,False,False
+6830,,2914,,3735,False,False,True,True
+58511,,3257,,3679,False,False,False,True
+58511,,9680,,3620,False,False,False,False
+3356,,9505,,3576,False,False,True,False
+4780,SeedNet,131634,,3572,True,False,False,False
+1299,,2914,,3540,False,False,True,True
+23673,,3356,,3501,False,False,False,True
+23673,,9505,,3426,False,False,False,False
+4826,,9002,,3402,False,False,False,False
+2500,,9924,Taiwan Fixed Network,3358,False,True,False,False
+6453,,9680,,3338,False,False,True,False
+24155,,56082,,3296,False,False,False,False
+398465,,7922,,3294,False,False,False,False
+174,,9505,,3248,False,False,True,False
+7575,,3491,,3221,False,False,False,True
+4637,,6453,,3080,False,False,False,True
+3356,,9924,Taiwan Fixed Network,3079,False,True,True,False
+24482,,6453,,3041,False,False,False,True
+63927,,3257,,3037,False,False,False,True
+3257,,3257,,3037,False,False,True,True
+135895,,6939,,3037,False,False,False,False
+8888,,6939,,3037,False,False,False,False
+23673,,6939,,2970,False,False,False,False
+11039,,6939,,2961,False,False,False,False
+40934,,174,,2955,False,False,False,True
+148968,,7474,,2916,False,False,False,False
+19151,,9680,,2898,False,False,False,False
+4826,,15412,,2888,False,False,False,False
+398465,,6939,,2888,False,False,False,False
+2497,,9505,,2887,False,False,False,False
+24516,,58453,,2861,False,False,False,False
+38880,,6939,,2831,False,False,False,False
+293,,2914,,2830,False,False,False,True
+6079,,1299,,2781,False,False,False,True
+3462,HiNet (Chunghwa),17710,,2756,True,False,False,False
+17709,,131142,,2740,False,False,False,False
+3356,,2914,,2708,False,False,True,True
+2500,,2914,,2656,False,False,False,True
+17809,,17809,,2611,False,False,False,False
+8220,,3462,HiNet (Chunghwa),2600,False,True,False,False
+4780,SeedNet,18185,,2568,True,False,False,False
+18106,,9680,,2558,False,False,False,False
+58511,,58453,,2552,False,False,False,False
+20940,,20940,,2548,False,False,False,False
+9674,,18412,,2508,False,False,False,False
+24482,,2914,,2497,False,False,False,True
+7922,,3491,,2495,False,False,False,True
+9924,Taiwan Fixed Network,31972,,2485,True,False,False,False
+18106,,2914,,2471,False,False,False,True
+4780,SeedNet,9671,,2398,True,False,False,False
+134823,,134823,,2379,False,False,False,False
+6057,,3462,HiNet (Chunghwa),2360,False,True,False,False
+58511,,3462,HiNet (Chunghwa),2332,False,True,False,False
+49544,,9680,,2327,False,False,False,False
+7575,,9924,Taiwan Fixed Network,2302,False,True,False,False
+41095,,9505,,2294,False,False,False,False
+7473,,3462,HiNet (Chunghwa),2281,False,True,False,False
+3491,,3491,,2274,False,False,True,True
+3491,,9680,,2258,False,False,True,False
+9924,Taiwan Fixed Network,18415,,2254,True,False,False,False
+6830,,174,,2251,False,False,True,True
+3491,,2914,,2216,False,False,True,True
+398465,,6079,,2212,False,False,False,False
+17408,,131627,,2174,False,False,False,False
+18185,,9916,,2159,False,False,False,False
+2500,,9505,,2140,False,False,False,False
+38880,,9680,,2134,False,False,False,False
+3462,HiNet (Chunghwa),10229,,2089,True,False,False,False
+17709,,131584,,2088,False,False,False,False
+23673,,2914,,2086,False,False,False,True
+3462,HiNet (Chunghwa),24506,,2073,True,False,False,False
+3462,HiNet (Chunghwa),18045,,2039,True,False,False,False
+18106,,6939,,1967,False,False,False,False
+3320,,2914,,1956,False,False,True,True
+49544,,3462,HiNet (Chunghwa),1954,False,True,False,False
+63927,,9002,,1953,False,False,False,False
+131596,,131596,,1944,False,False,False,False
+131588,,131588,,1944,False,False,False,False
+199524,,58453,,1941,False,False,False,False
+11164,,9680,,1900,False,False,False,False
+16552,,58453,,1891,False,False,False,False
+17660,,58453,,1891,False,False,False,False
+151326,,58453,,1891,False,False,False,False
+11039,,6461,,1861,False,False,False,True
+24516,,9924,Taiwan Fixed Network,1816,False,True,False,False
+58511,,9924,Taiwan Fixed Network,1816,False,True,False,False
+6057,,174,,1804,False,False,False,True
+60068,,9924,Taiwan Fixed Network,1804,False,True,False,False
+6057,,9002,,1792,False,False,False,False
+7473,,2914,,1787,False,False,False,True
+19151,,9505,,1767,False,False,False,False
+3257,,174,,1762,False,False,True,True
+9924,Taiwan Fixed Network,135596,,1749,True,False,False,False
+63927,,9505,,1748,False,False,False,False
+9924,Taiwan Fixed Network,18049,,1744,True,False,False,False
+4780,SeedNet,4058,,1737,True,False,False,False
+49544,,9505,,1734,False,False,False,False
+4780,SeedNet,38851,,1724,True,False,False,False
+15412,,3491,,1706,False,False,False,True
+2500,,17676,,1699,False,False,False,False
+199524,,1299,,1688,False,False,False,True
+3257,,1299,,1658,False,False,True,True
+58511,,1299,,1646,False,False,False,True
+9924,Taiwan Fixed Network,4783,,1613,True,False,False,False
+63927,,3462,HiNet (Chunghwa),1582,False,True,False,False
+3320,,174,,1575,False,False,True,True
+3462,HiNet (Chunghwa),4058,,1560,True,False,False,False
+3462,HiNet (Chunghwa),10310,,1530,True,False,False,False
+4780,SeedNet,7533,,1516,True,False,False,False
+17676,,9924,Taiwan Fixed Network,1507,False,True,False,False
+9216,,9216,,1506,False,False,False,False
+9505,,7539,TWARENet,1500,False,True,False,False
+135895,,4826,,1497,False,False,False,False
+24155,,133955,,1488,False,False,False,False
+21859,,142002,,1471,False,False,False,False
+38880,,3462,HiNet (Chunghwa),1470,False,True,False,False
+18049,,18049,,1466,False,False,False,False
+4780,SeedNet,7535,,1463,True,False,False,False
+4780,SeedNet,131626,,1451,True,False,False,False
+2914,,3356,,1445,False,False,True,True
+63927,,9924,Taiwan Fixed Network,1432,False,True,False,False
+9924,Taiwan Fixed Network,4781,,1416,True,False,False,False
+60068,,9680,,1411,False,False,False,False
+132337,,8966,,1391,False,False,False,False
+37721,,9680,,1390,False,False,False,False
+23673,,38623,,1383,False,False,False,False
+2497,,174,,1372,False,False,False,True
+131143,,131143,,1330,False,False,False,False
+8966,,2914,,1324,False,False,False,True
+9924,Taiwan Fixed Network,134094,,1308,True,False,False,False
+199524,,2914,,1308,False,False,False,True
+18415,,18415,,1296,False,False,False,False
+19151,,174,,1266,False,False,False,True
+9924,Taiwan Fixed Network,131148,,1251,True,False,False,False
+2914,,6453,,1208,False,False,True,True
+2516,,6453,,1183,False,False,False,True
+18045,,18045,,1181,False,False,False,False
+132337,,6939,,1179,False,False,False,False
+37721,,9505,,1174,False,False,False,False
+6939,,15412,,1156,False,False,False,False
+63927,,141013,,1156,False,False,False,False
+141013,,58453,,1156,False,False,False,False
+4780,SeedNet,131273,,1139,True,False,False,False
+7575,,9680,,1133,False,False,False,False
+134823,,38856,,1129,False,False,False,False
+7539,TWARENet,1659,TANet,1128,True,True,False,False
+4780,SeedNet,131677,,1110,True,False,False,False
+21859,,21859,,1094,False,False,False,False
+4780,SeedNet,18422,,1075,True,False,False,False
+3462,HiNet (Chunghwa),131588,,1075,True,False,False,False
+8220,,9505,,1070,False,False,False,False
+3462,HiNet (Chunghwa),54994,,1058,True,False,False,False
+9924,Taiwan Fixed Network,131635,,1050,True,False,False,False
+4783,,4783,,1040,False,False,False,False
+17660,,6453,,1034,False,False,False,True
+15412,,6453,,1030,False,False,False,True
+7473,,9505,,1021,False,False,False,False
+7713,,2914,,1016,False,False,False,True
+2914,,1299,,1011,False,False,True,True
+135140,,135140,,1010,False,False,False,False
+3462,HiNet (Chunghwa),24429,,1003,True,False,False,False
+3320,,1299,,972,False,False,True,True
+6939,,3462,HiNet (Chunghwa),925,False,True,False,False
+7539,TWARENet,18183,,924,True,False,False,False
+7713,,58453,,922,False,False,False,False
+3257,,9002,,905,False,False,True,False
+4637,,9505,,902,False,False,False,False
+21859,,131618,,891,False,False,False,False
+6939,,6453,,886,False,False,False,True
+17709,,131143,,879,False,False,False,False
+17709,,131601,,878,False,False,False,False
+2516,,3462,HiNet (Chunghwa),878,False,True,False,False
+49544,,2914,,866,False,False,False,True
+3257,,2914,,865,False,False,True,True
+11164,,9505,,859,False,False,False,False
+9002,,9505,,841,False,False,False,False
+132337,,174,,828,False,False,False,True
+7533,,7656,,824,False,False,False,False
+38623,,24482,,817,False,False,False,False
+6453,,3462,HiNet (Chunghwa),812,False,True,True,False
+4780,SeedNet,9216,,797,True,False,False,False
+9919,,18413,,790,False,False,False,False
+9924,Taiwan Fixed Network,131143,,775,True,False,False,False
+4826,,58453,,771,False,False,False,False
+60068,,1299,,761,False,False,False,True
+17408,,9922,,759,False,False,False,False
+4780,SeedNet,56179,,737,True,False,False,False
+137409,,15412,,736,False,False,False,False
+132337,,3462,HiNet (Chunghwa),733,False,True,False,False
+21859,,62654,,733,False,False,False,False
+4780,SeedNet,131149,,729,True,False,False,False
+1299,,9002,,729,False,False,True,False
+4766,,3462,HiNet (Chunghwa),724,False,True,False,False
+9924,Taiwan Fixed Network,9671,,719,True,False,False,False
+132337,,4766,,709,False,False,False,False
+5580,,9924,Taiwan Fixed Network,704,False,True,False,False
+16552,,5580,,704,False,False,False,False
+5580,,5580,,704,False,False,False,False
+9264,,7539,TWARENet,698,False,True,False,False
+7660,,9264,,698,False,False,False,False
+174,,2914,,697,False,False,True,True
+3462,HiNet (Chunghwa),137280,,692,True,False,False,False
+3462,HiNet (Chunghwa),131655,,691,True,False,False,False
+134823,,138968,,677,False,False,False,False
+18106,,4657,,671,False,False,False,False
+9924,Taiwan Fixed Network,18413,,670,True,False,False,False
+4780,SeedNet,63897,,669,True,False,False,False
+21859,,38854,,663,False,False,False,False
+16552,,1299,,660,False,False,False,True
+38856,,57429,,648,False,False,False,False
+3462,HiNet (Chunghwa),13335,,646,True,False,False,False
+3462,HiNet (Chunghwa),131587,,642,True,False,False,False
+131601,,131601,,636,False,False,False,False
+17421,,17421,,636,False,False,False,False
+9924,Taiwan Fixed Network,131636,,631,True,False,False,False
+131599,,131599,,627,False,False,False,False
+9924,Taiwan Fixed Network,17420,,624,True,False,False,False
+6939,,9002,,622,False,False,False,False
+9924,Taiwan Fixed Network,24429,,614,True,False,False,False
+1299,,58453,,609,False,False,True,False
+9676,,7656,,606,False,False,False,False
+9671,,9671,,594,False,False,False,False
+131589,,131589,,568,False,False,False,False
+7922,,3356,,553,False,False,False,True
+7713,,4635,,542,False,False,False,False
+137409,,58453,,537,False,False,False,False
+6079,,15412,,528,False,False,False,False
+9924,Taiwan Fixed Network,18045,,527,True,False,False,False
+8220,,15412,,515,False,False,False,False
+38623,,6939,,510,False,False,False,False
+4826,,3257,,510,False,False,False,True
+3491,,9002,,506,False,False,True,False
+9924,Taiwan Fixed Network,135140,,505,True,False,False,False
+9924,Taiwan Fixed Network,9216,,502,True,False,False,False
+3614,,3614,,497,False,False,False,False
+38880,,4826,,495,False,False,False,False
+38880,,174,,494,False,False,False,True
+38880,,9924,Taiwan Fixed Network,492,False,True,False,False
+7500,,4713,,488,False,False,False,False
+3462,HiNet (Chunghwa),131621,,486,True,False,False,False
+2516,,9505,,482,False,False,False,False
+3356,,174,,477,False,False,True,True
+131636,,131636,,477,False,False,False,False
+3462,HiNet (Chunghwa),56179,,475,True,False,False,False
+4780,SeedNet,4781,,469,True,False,False,False
+4780,SeedNet,18181,,469,True,False,False,False
+131273,,54801,,464,False,False,False,False
+4780,SeedNet,133948,,453,True,False,False,False
+6461,,3462,HiNet (Chunghwa),445,False,True,True,False
+9924,Taiwan Fixed Network,18422,,443,True,False,False,False
+4780,SeedNet,131599,,442,True,False,False,False
+199524,,15412,,438,False,False,False,False
+2500,,7660,,438,False,False,False,False
+4657,,4780,SeedNet,437,False,True,False,False
+9924,Taiwan Fixed Network,20940,,432,True,False,False,False
+9924,Taiwan Fixed Network,131599,,429,True,False,False,False
+10310,,56173,,426,False,False,False,False
+131634,,138341,,424,False,False,False,False
+131634,,131623,,421,False,False,False,False
+2914,,58453,,420,False,False,True,False
+4780,SeedNet,17420,,419,True,False,False,False
+4780,SeedNet,54994,,415,True,False,False,False
+4780,SeedNet,38837,,408,True,False,False,False
+4780,SeedNet,131588,,408,True,False,False,False
+3462,HiNet (Chunghwa),131660,,407,True,False,False,False
+4780,SeedNet,14789,,407,True,False,False,False
+4780,SeedNet,131586,,406,True,False,False,False
+57429,,212359,,405,False,False,False,False
+4780,SeedNet,24429,,404,True,False,False,False
+3320,,9002,,401,False,False,True,False
+17709,,13335,,401,False,False,False,False
+7713,,9924,Taiwan Fixed Network,396,False,True,False,False
+6461,,9002,,391,False,False,True,False
+7713,,174,,390,False,False,False,True
+6461,,2914,,390,False,False,True,True
+16552,,6939,,387,False,False,False,False
+21859,,137922,,383,False,False,False,False
+17709,,22787,,381,False,False,False,False
+4637,,15412,,379,False,False,False,False
+6830,,1299,,376,False,False,True,True
+4780,SeedNet,131636,,376,True,False,False,False
+37721,,9924,Taiwan Fixed Network,368,False,True,False,False
+6453,,15412,,367,False,False,True,False
+3462,HiNet (Chunghwa),38843,,366,True,False,False,False
+6461,,15412,,355,False,False,True,False
+134823,,152179,,353,False,False,False,False
+139750,,139750,,351,False,False,False,False
+4637,,9002,,347,False,False,False,False
+6830,,3356,,343,False,False,True,True
+17420,,17420,,338,False,False,False,False
+17408,,18419,,338,False,False,False,False
+21859,,38090,,336,False,False,False,False
+2497,,4780,SeedNet,328,False,True,False,False
+148968,,1299,,327,False,False,False,True
+38856,,212360,,326,False,False,False,False
+6939,,9505,,320,False,False,False,False
+18106,,9924,Taiwan Fixed Network,318,False,True,False,False
+2516,,2914,,318,False,False,False,True
+4780,SeedNet,131683,,315,True,False,False,False
+24155,,38797,,312,False,False,False,False
+10310,,10310,,312,False,False,False,False
+7575,,9002,,304,False,False,False,False
+9924,Taiwan Fixed Network,33619,,298,True,False,False,False
+17709,,131671,,294,False,False,False,False
+2497,,3356,,293,False,False,False,True
+11164,,15412,,284,False,False,False,False
+19151,,15412,,284,False,False,False,False
+63897,,135391,,284,False,False,False,False
+23673,,58453,,284,False,False,False,False
+40934,,15412,,284,False,False,False,False
+134823,,18415,,280,False,False,False,False
+4780,SeedNet,131143,,278,True,False,False,False
+58511,,15412,,278,False,False,False,False
+9924,Taiwan Fixed Network,18106,,277,True,False,False,False
+7483,,7483,,276,False,False,False,False
+60068,,3257,,276,False,False,False,True
+16552,,9924,Taiwan Fixed Network,272,False,True,False,False
+23673,,9924,Taiwan Fixed Network,272,False,True,False,False
+151326,,9924,Taiwan Fixed Network,272,False,True,False,False
+17660,,9924,Taiwan Fixed Network,272,False,True,False,False
+3257,,58453,,272,False,False,True,False
+3320,,15412,,268,False,False,True,False
+41095,,58453,,261,False,False,False,False
+17408,,138995,,261,False,False,False,False
+4780,SeedNet,4783,,260,True,False,False,False
+6939,,1299,,255,False,False,False,True
+24482,,3462,HiNet (Chunghwa),255,False,True,False,False
+4780,SeedNet,18046,,251,True,False,False,False
+6453,,2914,,249,False,False,True,True
+7713,,6939,,248,False,False,False,False
+6830,,9002,,247,False,False,True,False
+49544,,15412,,244,False,False,False,False
+132847,,6939,,241,False,False,False,False
+7594,,6939,,241,False,False,False,False
+20253,,6939,,241,False,False,False,False
+38880,,58453,,241,False,False,False,False
+63897,,63897,,240,False,False,False,False
+6762,,9680,,238,False,False,True,False
+21859,,62610,,236,False,False,False,False
+62610,,13444,,236,False,False,False,False
+19151,,58453,,232,False,False,False,False
+398465,,174,,232,False,False,False,True
+6453,,9505,,232,False,False,True,False
+199524,,12956,,231,False,False,False,False
+24516,,6939,,229,False,False,False,False
+134823,,131642,,229,False,False,False,False
+7575,,9505,,228,False,False,False,False
+199524,,6762,,225,False,False,False,True
+7533,,7533,,224,False,False,False,False
+7539,TWARENet,18426,,224,True,False,False,False
+4901,,11537,,223,False,False,False,False
+4637,,58453,,221,False,False,False,False
+9924,Taiwan Fixed Network,38837,,219,True,False,False,False
+9924,Taiwan Fixed Network,131595,,216,True,False,False,False
+63927,,4766,,214,False,False,False,False
+3462,HiNet (Chunghwa),18421,,212,True,False,False,False
+3462,HiNet (Chunghwa),150772,,212,True,False,False,False
+3462,HiNet (Chunghwa),3911,,212,True,False,False,False
+9924,Taiwan Fixed Network,11179,,211,True,False,False,False
+4780,SeedNet,18410,,209,True,False,False,False
+9924,Taiwan Fixed Network,19637,,209,True,False,False,False
+4780,SeedNet,131584,,209,True,False,False,False
+4780,SeedNet,142592,,209,True,False,False,False
+4780,SeedNet,18211,,209,True,False,False,False
+4780,SeedNet,23675,,209,True,False,False,False
+9924,Taiwan Fixed Network,40934,,208,True,False,False,False
+2907,,2907,,208,False,False,False,False
+9924,Taiwan Fixed Network,3911,,208,True,False,False,False
+9924,Taiwan Fixed Network,11528,,207,True,False,False,False
+9924,Taiwan Fixed Network,16477,,206,True,False,False,False
+4657,,9924,Taiwan Fixed Network,201,False,True,False,False
+4637,,1221,,200,False,False,False,False
+3462,HiNet (Chunghwa),4637,,200,True,False,False,False
+6079,,6939,,200,False,False,False,False
+7473,,6939,,199,False,False,False,False
+18185,,18420,,199,False,False,False,False
+4826,,9924,Taiwan Fixed Network,198,False,True,False,False
+17408,,38851,,197,False,False,False,False
+38880,,9002,,195,False,False,False,False
+134094,,18702,,195,False,False,False,False
+10310,,10880,,194,False,False,False,False
+17408,,133847,,192,False,False,False,False
+7473,,15412,,191,False,False,False,False
+3462,HiNet (Chunghwa),131273,,191,True,False,False,False
+4637,,3462,HiNet (Chunghwa),190,False,True,False,False
+131273,,63888,,190,False,False,False,False
+134823,,152613,,188,False,False,False,False
+6057,,3356,,188,False,False,False,True
+63927,,9680,,187,False,False,False,False
+293,,6939,,186,False,False,False,False
+17717,,1659,TANet,186,False,True,False,False
+17709,,131587,,186,False,False,False,False
+58952,,9924,Taiwan Fixed Network,185,False,True,False,False
+17709,,131593,,185,False,False,False,False
+21859,,131659,,183,False,False,False,False
+21859,,137280,,180,False,False,False,False
+2914,,2914,,177,False,False,True,True
+6939,,2914,,176,False,False,False,True
+7539,TWARENet,17717,,176,True,False,False,False
+17415,,17415,,174,False,False,False,False
+132337,,58453,,174,False,False,False,False
+4766,,3491,,168,False,False,False,True
+293,,9002,,168,False,False,False,False
+9002,,58453,,167,False,False,False,False
+7575,,2914,,167,False,False,False,True
+151326,,135607,,165,False,False,False,False
+7539,TWARENet,18181,,164,True,False,False,False
+1221,,21859,,162,False,False,False,False
+17676,,3462,HiNet (Chunghwa),161,False,True,False,False
+17709,,17710,,161,False,False,False,False
+135607,,6939,,161,False,False,False,False
+134823,,131639,,159,False,False,False,False
+134823,,150881,,159,False,False,False,False
+17709,,131588,,159,False,False,False,False
+17709,,131636,,159,False,False,False,False
+3320,,6939,,158,False,False,True,False
+17408,,18422,,158,False,False,False,False
+10310,,45501,,158,False,False,False,False
+23855,,7660,,156,False,False,False,False
+132337,,9924,Taiwan Fixed Network,156,False,True,False,False
+3462,HiNet (Chunghwa),11528,,156,True,False,False,False
+4780,SeedNet,18106,,155,True,False,False,False
+3356,,58453,,151,False,False,True,False
+21859,,150436,,150,False,False,False,False
+17350,,6461,,146,False,False,False,True
+17660,,6939,,146,False,False,False,False
+17408,,139750,,144,False,False,False,False
+38325,,38325,,144,False,False,False,False
+134823,,150755,,141,False,False,False,False
+3462,HiNet (Chunghwa),3614,,139,True,False,False,False
+1299,,3356,,137,False,False,True,True
+58952,,58453,,136,False,False,False,False
+293,,7539,TWARENet,132,False,True,False,False
+17408,,131607,,130,False,False,False,False
+4780,SeedNet,140079,,129,True,False,False,False
+135377,,395793,,128,False,False,False,False
+2497,,58453,,128,False,False,False,False
+41095,,15412,,124,False,False,False,False
+7922,,6453,,124,False,False,False,True
+2497,,15412,,124,False,False,False,False
+63927,,58453,,124,False,False,False,False
+2516,,15412,,124,False,False,False,False
+2516,,3356,,122,False,False,False,True
+3491,,9505,,122,False,False,True,False
+24482,,58453,,121,False,False,False,False
+4780,SeedNet,20940,,121,True,False,False,False
+11537,,7539,TWARENet,119,False,True,False,False
+12956,,2914,,118,False,False,False,True
+4780,SeedNet,132046,,118,True,False,False,False
+2500,,6939,,114,False,False,False,False
+10310,,7280,,112,False,False,False,False
+17408,,57976,,111,False,False,False,False
+12956,,9002,,111,False,False,False,False
+9924,Taiwan Fixed Network,{24158},,108,True,False,False,False
+57695,,6939,,107,False,False,False,False
+17408,,131600,,107,False,False,False,False
+3462,HiNet (Chunghwa),131683,,105,True,False,False,False
+11537,,2907,,104,False,False,False,False
+293,,23855,,104,False,False,False,False
+2907,,7660,,104,False,False,False,False
+10310,,10230,,100,False,False,False,False
+10310,,10229,,100,False,False,False,False
+10229,,24376,,100,False,False,False,False
+7575,,7539,TWARENet,98,False,True,False,False
+17709,,131589,,97,False,False,False,False
+6453,,1299,,96,False,False,True,True
+38254,,38254,,96,False,False,False,False
+3462,HiNet (Chunghwa),131593,,95,True,False,False,False
+4780,SeedNet,11414,,91,True,False,False,False
+4635,,58453,,89,False,False,False,False
+17408,,63928,,89,False,False,False,False
+6453,,58453,,88,False,False,True,False
+7922,,2914,,88,False,False,False,True
+3491,,3356,,86,False,False,True,True
+24506,,38033,,84,False,False,False,False
+10310,,24506,,84,False,False,False,False
+4780,SeedNet,9002,,84,True,False,False,False
+10310,,38032,,84,False,False,False,False
+174,,58453,,84,False,False,True,False
+18046,,18046,,84,False,False,False,False
+10310,,18293,,84,False,False,False,False
+63897,,45250,,83,False,False,False,False
+9924,Taiwan Fixed Network,140079,,80,True,False,False,False
+49544,,58453,,80,False,False,False,False
+6057,,58453,,80,False,False,False,False
+17408,,17416,,79,False,False,False,False
+17416,,17416,,79,False,False,False,False
+17408,,63199,,77,False,False,False,False
+4780,SeedNet,3614,,73,True,False,False,False
+131671,,131671,,72,False,False,False,False
+199524,,6939,,71,False,False,False,False
+9505,,45250,,70,False,False,False,False
+2914,,55020,,70,False,False,True,False
+45250,,63897,,70,False,False,False,False
+55020,,400619,,70,False,False,False,False
+3462,HiNet (Chunghwa),9680,,70,True,False,False,False
+4780,SeedNet,3491,,70,True,False,False,True
+9680,,131660,,70,False,False,False,False
+6762,,15412,,70,False,False,True,False
+63897,,4780,SeedNet,70,False,True,False,False
+21859,,7483,,69,False,False,False,False
+45250,,208932,,69,False,False,False,False
+134823,,152622,,67,False,False,False,False
+17709,,18179,,66,False,False,False,False
+131618,,131618,,65,False,False,False,False
+134823,,202736,,65,False,False,False,False
+24482,,6939,,64,False,False,False,False
+3462,HiNet (Chunghwa),20764,,64,True,False,False,False
+134823,,214432,,64,False,False,False,False
+20764,,21859,,64,False,False,False,False
+17408,,38325,,63,False,False,False,False
+134823,,215595,,62,False,False,False,False
+9002,,6939,,60,False,False,False,False
+134823,,17415,,58,False,False,False,False
+63928,,24427,,56,False,False,False,False
+131149,,150756,,55,False,False,False,False
+24429,,24429,,55,False,False,False,False
+17408,,7540,,55,False,False,False,False
+4780,SeedNet,11528,,53,True,False,False,False
+17408,,18411,,52,False,False,False,False
+24490,,24490,,52,False,False,False,False
+24490,,23855,,52,False,False,False,False
+134823,,44324,,52,False,False,False,False
+18106,,58453,,52,False,False,False,False
+7575,,24490,,52,False,False,False,False
+9002,,9002,,51,False,False,False,False
+6079,,3257,,51,False,False,False,True
+134823,,213430,,48,False,False,False,False
+137409,,7539,TWARENet,48,False,True,False,False
+174,,3356,,47,False,False,True,True
+133847,,133847,,47,False,False,False,False
+8966,,4780,SeedNet,47,False,True,False,False
+60068,,6762,,47,False,False,False,True
+6079,,9505,,47,False,False,False,False
+139750,,59268,,45,False,False,False,False
+148968,,9297,,43,False,False,False,False
+9297,,137409,,43,False,False,False,False
+3356,,13767,,42,False,False,True,False
+6461,,13767,,42,False,False,True,False
+9002,,6461,,42,False,False,False,True
+398465,,3257,,42,False,False,False,True
+4780,SeedNet,63894,,40,True,False,False,False
+7713,,6453,,38,False,False,False,True
+1221,,24429,,38,False,False,False,False
+131619,,131619,,36,False,False,False,False
+134823,,148996,,36,False,False,False,False
+9676,,131149,,36,False,False,False,False
+59318,,3462,HiNet (Chunghwa),36,False,True,False,False
+7539,TWARENet,18422,,35,True,False,False,False
+7575,,15412,,34,False,False,False,False
+131149,,215256,,34,False,False,False,False
+38623,,9304,,34,False,False,False,False
+9304,,9505,,34,False,False,False,False
+134823,,38042,,32,False,False,False,False
+134823,,38254,,32,False,False,False,False
+23673,,23764,,32,False,False,False,False
+7713,,7539,TWARENet,32,False,True,False,False
+23764,,3462,HiNet (Chunghwa),32,False,True,False,False
+4766,,2914,,31,False,False,False,True
+17408,,131620,,31,False,False,False,False
+9924,Taiwan Fixed Network,131671,,28,True,False,False,False
+9505,,7481,,28,False,False,False,False
+7481,,9924,Taiwan Fixed Network,28,False,True,False,False
+4657,,15412,,28,False,False,False,False
+17408,,131663,,28,False,False,False,False
+199524,,7473,,27,False,False,False,False
+58453,,3462,HiNet (Chunghwa),27,False,True,False,False
+17676,,3491,,27,False,False,False,True
+17408,,131606,,26,False,False,False,False
+17408,,17651,,26,False,False,False,False
+9902,,9505,,26,False,False,False,False
+8220,,6939,,25,False,False,False,False
+134823,,152617,,25,False,False,False,False
+6939,,7539,TWARENet,24,False,True,False,False
+6939,,58453,,24,False,False,False,False
+4780,SeedNet,131659,,22,True,False,False,False
+131659,,131659,,22,False,False,False,False
+7922,,6939,,22,False,False,False,False
+1299,,174,,22,False,False,True,True
+8966,,9924,Taiwan Fixed Network,21,False,True,False,False
+4635,,7473,,21,False,False,False,False
+6461,,1299,,21,False,False,True,True
+7539,TWARENet,9264,,21,True,False,False,False
+49544,,7473,,21,False,False,False,False
+7539,TWARENet,18047,,20,True,False,False,False
+57463,,4229,,20,False,False,False,False
+9924,Taiwan Fixed Network,55789,,20,True,False,False,False
+132337,,58779,,20,False,False,False,False
+4229,,21859,,20,False,False,False,False
+21859,,152700,,20,False,False,False,False
+3462,HiNet (Chunghwa),57463,,20,True,False,False,False
+55329,,9304,,19,False,False,False,False
+6453,,174,,19,False,False,True,True
+131595,,131595,,18,False,False,False,False
+23673,,55329,,18,False,False,False,False
+17408,,131619,,18,False,False,False,False
+131273,,138915,,18,False,False,False,False
+6830,,6939,,17,False,False,True,False
+137409,,4637,,17,False,False,False,False
+3462,HiNet (Chunghwa),20144,,16,True,False,False,False
+58453,,4780,SeedNet,16,False,True,False,False
+18106,,7539,TWARENet,16,False,True,False,False
+7539,TWARENet,17716,,16,True,False,False,False
+4058,,4058,,16,False,False,False,False
+199524,,7539,TWARENet,16,False,True,False,False
+24482,,7539,TWARENet,16,False,True,False,False
+151326,,7539,TWARENet,16,False,True,False,False
+49544,,7539,TWARENet,16,False,True,False,False
+9676,,9676,,16,False,False,False,False
+134823,,205329,,16,False,False,False,False
+7473,,9002,,16,False,False,False,False
+63927,,7539,TWARENet,16,False,True,False,False
+17408,,141158,,15,False,False,False,False
+9304,,9924,Taiwan Fixed Network,15,False,True,False,False
+2764,,7545,,14,False,False,False,False
+58511,,2764,,14,False,False,False,False
+7545,,3356,,14,False,False,False,True
+37662,,24429,,14,False,False,False,False
+2914,,6939,,14,False,False,True,False
+7473,,7473,,14,False,False,False,False
+3462,HiNet (Chunghwa),37662,,14,True,False,False,False
+132337,,7473,,14,False,False,False,False
+17408,,11179,,13,False,False,False,False
+17408,,38853,,13,False,False,False,False
+17408,,136041,,13,False,False,False,False
+17408,,132157,,13,False,False,False,False
+58779,,132818,,12,False,False,False,False
+9002,,7473,,12,False,False,False,False
+3320,,7473,,12,False,False,True,False
+133847,,139065,,12,False,False,False,False
+3491,,58453,,12,False,False,True,False
+13150,,13150,,12,False,False,False,False
+132818,,4635,,12,False,False,False,False
+148968,,9505,,12,False,False,False,False
+9924,Taiwan Fixed Network,4780,SeedNet,11,True,True,False,False
+55256,,55256,,10,False,False,False,False
+9505,,9002,,10,False,False,False,False
+7539,TWARENet,17711,,10,True,False,False,False
+137409,,3356,,10,False,False,False,True
+17408,,131605,,10,False,False,False,False
+174,,1299,,10,False,False,True,True
+2518,,2914,,10,False,False,False,True
+7500,,2518,,10,False,False,False,False
+17711,,1659,TANet,10,False,True,False,False
+7539,TWARENet,4637,,10,True,False,False,False
+7539,TWARENet,9505,,10,True,False,False,False
+134823,,131657,,10,False,False,False,False
+37721,,6939,,10,False,False,False,False
+38623,,58453,,10,False,False,False,False
+4637,,17717,,10,False,False,False,False
+7922,,174,,10,False,False,False,True
+16552,,16260,,9,False,False,False,False
+9505,,3462,HiNet (Chunghwa),9,False,True,False,False
+17408,,55256,,9,False,False,False,False
+3462,HiNet (Chunghwa),45102,,9,True,False,False,False
+44324,,44324,,9,False,False,False,False
+17709,,4780,SeedNet,9,False,True,False,False
+137409,,17709,,9,False,False,False,False
+3257,,3356,,9,False,False,True,True
+16260,,7474,,9,False,False,False,False
+40065,,9680,,8,False,False,False,False
+9900,,23764,,8,False,False,False,False
+23673,,9900,,8,False,False,False,False
+9924,Taiwan Fixed Network,36040,,8,True,False,False,False
+134823,,215470,,8,False,False,False,False
+38623,,3491,,8,False,False,False,True
+17350,,1299,,8,False,False,False,True
+205329,,216123,,8,False,False,False,False
+3257,,40065,,8,False,False,True,False
+132337,,1299,,8,False,False,False,True
+6939,,3356,,8,False,False,False,True
+55933,,4635,,7,False,False,False,False
+17408,,24168,,7,False,False,False,False
+4637,,55933,,7,False,False,False,False
+17408,,13150,,6,False,False,False,False
+58511,,1221,,6,False,False,False,False
+3356,,1299,,6,False,False,True,True
+17408,,4845,,6,False,False,False,False
+148968,,24482,,6,False,False,False,False
+2516,,58453,,6,False,False,False,False
+133847,,148994,,6,False,False,False,False
+4637,,4637,,6,False,False,False,False
+133847,,210334,,6,False,False,False,False
+9676,,63894,,5,False,False,False,False
+9902,,58453,,5,False,False,False,False
+7539,TWARENet,18420,,5,True,False,False,False
+2914,,9505,,4,False,False,True,False
+9924,Taiwan Fixed Network,9676,,4,True,False,False,False
+9924,Taiwan Fixed Network,10135,,4,True,False,False,False
+58779,,56082,,4,False,False,False,False
+56082,,4635,,4,False,False,False,False
+17676,,9002,,4,False,False,False,False
+3491,,174,,4,False,False,True,True
+9505,,9505,,4,False,False,False,False
+9924,Taiwan Fixed Network,7539,TWARENet,4,True,True,False,False
+7539,TWARENet,38254,,4,True,False,False,False
+23764,,2914,,4,False,False,False,True
+59318,,6939,,4,False,False,False,False
+23764,,8966,,4,False,False,False,False
+59318,,55329,,4,False,False,False,False
+38623,,9902,,4,False,False,False,False
+135607,,15412,,4,False,False,False,False
+9924,Taiwan Fixed Network,211612,,4,True,False,False,False
+4637,,3356,,4,False,False,False,True
+58779,,4635,,4,False,False,False,False
+9304,,4780,SeedNet,4,False,True,False,False
+15412,,3462,HiNet (Chunghwa),4,False,True,False,False
+6057,,5511,,3,False,False,False,True
+4229,,136255,,3,False,False,False,False
+133847,,146993,,3,False,False,False,False
+136255,,174,,3,False,False,False,True
+55329,,3491,,3,False,False,False,True
+8966,,4637,,3,False,False,False,False
+3462,HiNet (Chunghwa),4202230851,,3,True,False,False,False
+4780,SeedNet,131595,,3,True,False,False,False
+4657,,4637,,3,False,False,False,False
+5511,,9680,,3,False,False,True,False
+11039,,46887,,2,False,False,False,False
+1299,,4637,,2,False,False,True,False
+199524,,4637,,2,False,False,False,False
+7473,,4788,,2,False,False,False,False
+6762,,3491,,2,False,False,True,True
+4788,,2914,,2,False,False,False,True
+4657,,6453,,2,False,False,False,True
+46887,,3356,,2,False,False,False,True
+7922,,1299,,2,False,False,False,True
+6762,,9002,,2,False,False,True,False
+38880,,6762,,1,False,False,False,True
+6057,,6939,,1,False,False,False,False
+3462,HiNet (Chunghwa),17984,,1,True,False,False,False
+12956,,174,,1,False,False,False,True
+23673,,4229,,1,False,False,False,False
+18106,,4229,,1,False,False,False,False
+11164,,4637,,1,False,False,False,False
+6762,,2914,,1,False,False,True,True
+12956,,3491,,1,False,False,False,True
+199524,,4229,,1,False,False,False,False
+41095,,4637,,1,False,False,False,False
+17984,,134963,,1,False,False,False,False
